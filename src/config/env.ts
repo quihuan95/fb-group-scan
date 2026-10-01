@@ -1,0 +1,3 @@
+import 'dotenv/config';import {z} from 'zod';
+const schema=z.object({OPENAI_API_KEY:z.string().min(1),OPENAI_MODEL:z.string().default('gpt-5.4-mini'),SPREADSHEET_ID:z.string().min(1),GOOGLE_SERVICE_ACCOUNT_JSON:z.string().default('./service-account.json'),DATA_DESTINATION_SPREADSHEET_ID:z.string().optional(),DATA_DESTINATION_SHEET:z.string().optional(),SCAN_WINDOW_HOURS:z.coerce.number().default(24),HEADLESS:z.string().default('false').transform(v=>v==='true'),MCP_PORT:z.coerce.number().default(8787),WRITE_LEADS:z.string().default('true').transform(v=>v==='true'),TEST_STT:z.string().optional()});
+export const env=schema.parse(process.env);

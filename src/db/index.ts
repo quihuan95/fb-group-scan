@@ -1,0 +1,6 @@
+import Database from 'better-sqlite3';import fs from 'node:fs';fs.mkdirSync('data',{recursive:true});
+export const db=new Database('data/scanner.db');db.pragma('journal_mode = WAL');
+db.exec(`CREATE TABLE IF NOT EXISTS scan_runs(id TEXT PRIMARY KEY,status TEXT,started_at TEXT,finished_at TEXT,window_hours INTEGER,groups_total INTEGER,groups_completed INTEGER DEFAULT 0,posts_reviewed INTEGER DEFAULT 0,new_count INTEGER DEFAULT 0,update_count INTEGER DEFAULT 0,duplicate_count INTEGER DEFAULT 0,hold_count INTEGER DEFAULT 0,error TEXT);
+CREATE TABLE IF NOT EXISTS checkpoints(run_id TEXT,group_stt INTEGER,canonical_group_url TEXT,status TEXT,posts_reviewed INTEGER DEFAULT 0,last_post_time TEXT,candidate_count INTEGER DEFAULT 0,error TEXT,completed_at TEXT,PRIMARY KEY(run_id,group_stt));
+CREATE TABLE IF NOT EXISTS candidates(id INTEGER PRIMARY KEY AUTOINCREMENT,run_id TEXT,group_stt INTEGER,canonical_key TEXT,contact_key TEXT,need_fingerprint TEXT,payload_json TEXT,decision TEXT,matched_existing TEXT,created_at TEXT DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,type TEXT,status TEXT,payload_json TEXT,result_json TEXT,error TEXT,created_at TEXT,updated_at TEXT);`);

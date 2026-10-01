@@ -1,0 +1,1 @@
+import{runScan}from'./jobs/runner.js';import{env}from'./config/env.js';const stt=env.TEST_STT?.split(',').map(Number).filter(Boolean);runScan({stt}).then(console.log).catch(e=>{console.error(e);process.exitCode=1});
