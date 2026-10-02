@@ -26,11 +26,17 @@ export async function runScan(opts: { stt?: number[]; priority?: string[]; limit
   const dbKeys = db.prepare('SELECT canonical_key FROM candidates WHERE canonical_key IS NOT NULL').all() as { canonical_key: string }[];
   dbKeys.forEach(k => existingKeys.add(k.canonical_key));
 
-  // 2. Lấy tất cả bài viết đã ghi trong Google Sheet 'LEAD OUTPUT'
+  // 2. Lấy tất cả bài viết đã ghi trong Google Sheet
   history.slice(1).forEach(r => {
-    const normLink = String(r[19] || r[6] || '').trim();
-    if (normLink) existingKeys.add(hash(canonicalFacebookUrl(normLink)));
-    const uniqueKey = String(r[16] || '').trim();
+    let link = '';
+    if (r.length <= 14 && r[5]) {
+      const m = String(r[5]).match(/https?:\/\/[^\s]+/);
+      if (m) link = m[0];
+    }
+    if (!link) link = String(r[19] || r[6] || '').trim();
+    if (link) existingKeys.add(hash(canonicalFacebookUrl(link)));
+
+    const uniqueKey = String(r[1] || r[16] || '').trim();
     if (uniqueKey) existingKeys.add(uniqueKey);
   });
 
@@ -139,6 +145,12 @@ export async function runScan(opts: { stt?: number[]; priority?: string[]; limit
           new Date().toISOString()
         );
       }
+
+      if (i < groups.length - 1) {
+        const delaySec = Math.floor(Math.random() * 3) + 3;
+        console.log(`  ⏳ Nghỉ an toàn ${delaySec}s trước khi chuyển nhóm tiếp theo...`);
+        await new Promise(r => setTimeout(r, delaySec * 1000));
+      }
     }
 
     db.prepare('UPDATE scan_runs SET status=?,finished_at=? WHERE id=?').run('COMPLETED', new Date().toISOString(), id);
@@ -161,4 +173,44 @@ export function report(id: string) {
     groups: db.prepare('SELECT * FROM checkpoints WHERE run_id=? ORDER BY group_stt').all(id),
     candidates: db.prepare('SELECT decision,count(*) count FROM candidates WHERE run_id=? GROUP BY decision').all(id)
   };
+}
+
+export async function syncLeadsToSheet() {
+  const newCandidates = db.prepare("SELECT * FROM candidates WHERE decision='NEW'").all() as any[];
+  if (!newCandidates.length) {
+    console.log('ℹ️ Không có lead nào trong CSDL SQLite cần đồng bộ.');
+    return { synced: 0 };
+  }
+
+  const history = await loadLeadOutput();
+  const existingKeys = new Set<string>();
+  history.slice(1).forEach(r => {
+    let link = '';
+    if (r.length <= 14 && r[5]) {
+      const m = String(r[5]).match(/https?:\/\/[^\s]+/);
+      if (m) link = m[0];
+    }
+    if (!link) link = String(r[19] || r[6] || '').trim();
+    if (link) existingKeys.add(hash(canonicalFacebookUrl(link)));
+
+    const uniqueKey = String(r[1] || r[16] || '').trim();
+    if (uniqueKey) existingKeys.add(uniqueKey);
+  });
+
+  let synced = 0;
+  for (const c of newCandidates) {
+    if (c.canonical_key && existingKeys.has(c.canonical_key)) continue;
+    try {
+      const payload: Candidate = JSON.parse(c.payload_json);
+      await writeLead(payload, c.run_id);
+      if (c.canonical_key) existingKeys.add(c.canonical_key);
+      synced++;
+    } catch (e) {
+      console.error(`❌ Lỗi đồng bộ candidate #${c.id}:`, e);
+    }
+  }
+
+  const destSheetName = env.DATA_DESTINATION_SHEET || 'Tháng 10/26';
+  console.log(`✅ Đã đồng bộ thành công ${synced} lead lên Google Sheet '${destSheetName}'!`);
+  return { synced, total: newCandidates.length };
 }

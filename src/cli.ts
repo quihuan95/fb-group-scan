@@ -44,10 +44,16 @@ if (cmd === 'scan') {
   }
 } else if (cmd === 'login') {
   await loginFacebook();
+} else if (cmd === 'auth') {
+  const { authorizeGoogle } = await import('./sheets/auth.js');
+  await authorizeGoogle();
+} else if (cmd === 'sync') {
+  const { syncLeadsToSheet } = await import('./jobs/runner.js');
+  await syncLeadsToSheet();
 } else if (cmd === 'status') {
   console.log(status(args[0]));
 } else if (cmd === 'report') {
   console.log(JSON.stringify(report(args[0]), null, 2));
 } else {
-  console.log('Usage: npm run login | npm run preview [stt] | npm run scan [--limit=20] [stt] | tsx src/cli.ts status [runId] | report <runId>');
+  console.log('Usage: npm run login | npm run preview [stt] | npm run scan [--limit=20] [stt] | tsx src/cli.ts auth | tsx src/cli.ts sync | tsx src/cli.ts status [runId] | report <runId>');
 }

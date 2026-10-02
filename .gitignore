@@ -4,6 +4,9 @@ dist/
 .env.*
 !.env.example
 service-account*.json
+oauth-credentials*.json
+tokens*.json
+credentials*.json
 *.pem
 *.key
 data/

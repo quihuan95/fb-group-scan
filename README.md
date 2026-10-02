@@ -1,6 +1,6 @@
 # The HBG Facebook Group Lead Scanner
 
-Runner bền vững cho 152 Facebook Group: đọc rule từ Google Sheet, quét `Bài viết mới`, lưu checkpoint SQLite, phân loại 11 dịch vụ bằng OpenAI, chống trùng và chỉ ghi `NEW` vào `LEAD OUTPUT`. `Data Thô` không bị ghi.
+Runner bền vững cho 152 Facebook Group: đọc rule từ Google Sheet, quét `Bài viết mới`, lưu checkpoint SQLite, phân loại 11 dịch vụ bằng OpenAI, chống trùng và ghi lead `NEW` vào Sheet Data thô (tab `Tháng 10/26`, cấu trúc `A6:H6`).
 
 ## 1. Yêu cầu
 
