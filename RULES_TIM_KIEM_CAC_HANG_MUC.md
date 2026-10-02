@@ -1,0 +1,1039 @@
+# 📋 BẢNG TỔNG HỢP QUY TẮC TÌM KIẾM & PHÂN LOẠI 11 HẠNG MỤC SẢN PHẨM
+
+> **Tài liệu tham chiếu chuẩn** được trích xuất trực tiếp từ tab **CẤU HÌNH SẢN PHẨM** của hệ thống The HBG Lead Scanner.
+
+## 📑 MỤC LỤC
+
+1. [Sự kiện (Phụ trách: Bích Hiển)](#hạng-mục-1-sự-kiện)
+2. [Thiết bị (Phụ trách: Phương Dung)](#hạng-mục-2-thiết-bị)
+3. [Media (Phụ trách: Phương Dung)](#hạng-mục-3-media)
+4. [Thi công (Phụ trách: Phương Dung)](#hạng-mục-4-thi-công)
+5. [Hội nghị MICE (Phụ trách: Nhật Chung)](#hạng-mục-5-hội-nghị-mice)
+6. [Tiệc (Phụ trách: Nhật Chung)](#hạng-mục-6-tiệc)
+7. [Tour Inbound (Phụ trách: Hà Đỗ)](#hạng-mục-7-tour-inbound)
+8. [Tour Outbound (Phụ trách: Hà Đỗ)](#hạng-mục-8-tour-outbound)
+9. [Tour Nội địa (Phụ trách: Thùy Anh)](#hạng-mục-9-tour-nội-địa)
+10. [Xe (Phụ trách: Thùy Anh)](#hạng-mục-10-xe)
+11. [Vé (Phụ trách: Thùy Anh)](#hạng-mục-11-vé)
+
+---
+
+## 📊 BẢNG TỔNG QUAN 11 HẠNG MỤC DỊCH VỤ
+
+| STT | Hạng mục dịch vụ | Phụ trách | Tỷ lệ khách hàng mục tiêu | Từ khóa chính tiêu biểu | Điểm loại trừ cốt lõi |
+|:---:|:---|:---|:---|:---|:---|
+| 1 | **Sự kiện** | `Bích Hiển` | - Khách hàng cao cấp 70%: Tập đoàn, doanh nghiệp lớn, FDI, ngân hàng, thương hiệu premium, tổ chức lớn, agency, trường học lớn, bệnh viện, hiệp hội, khách sạn/resort, chủ đầu tư. Người tìm/đề xuất thường là Marketing, Event, HR, Admin, Communication, Project Coordinator, Procurement; cấp duyệt gồm Manager/Director/Head/GM/CEO/Ban quản lý dự án. Ngân sách trọng tâm từ 150 triệu đồng trở lên. | tổ chức sự kiện, dịch vụ tổ chức sự kiện, dịch vụ tổ chức sự kiện trọn gói | tuyển dụng tổ chức sự kiện, việc làm event, thực tập event |
+| 2 | **Thiết bị** | `Phương Dung` | - Doanh nghiệp/B2B 80%: DN lớn, DN vừa & nhỏ, tổ chức có nhu cầu thuê thiết bị cho hội nghị, hội thảo, lễ ký kết, khai trương, sự kiện nội bộ, YEP… | thuê thiết bị sự kiện, thiết bị sự kiện, cho thuê thiết bị sự kiện | mua thiết bị, bán thiết bị, thiết bị cũ |
+| 3 | **Media** | `Phương Dung` | - Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ, tổ chức, đơn vị tổ chức hội nghị - hội thảo, training, tọa đàm, khai trương, sự kiện nội bộ, MICE… có nhu cầu ghi hình và sản xuất tư liệu truyền thông. | quay phim sự kiện, chụp ảnh sự kiện, quay chụp sự kiện | chụp ảnh cưới, quay phim cưới, wedding |
+| 4 | **Thi công** | `Phương Dung` | - Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ; thương hiệu/nhãn hàng; đơn vị tham gia triển lãm, hội chợ, activation; tổ chức có nhu cầu thi công không gian cho hội nghị, lễ ký kết, khai trương, khởi công - động thổ - khánh thành, sự kiện nội bộ… | thi công sự kiện, thi công gian hàng, thi công gian hàng triển lãm | thi công xây dựng, xây nhà, sửa nhà |
+| 5 | **Hội nghị MICE** | `Nhật Chung` | NHÓM 1– Doanh nghiệp/tổ chức tư nhân 60%: tập đoàn, doanh nghiệp lớn/vừa, FDI, ngân hàng, dược – y tế, công nghệ, sản xuất, tài chính, giáo dục... Người đọc/tìm dịch vụ: Marketing/Branding, Communication/PR, Event, HR/Admin, Office Manager, thư ký/trợ lý, Project Coordinator, Procurement và người được giao trực tiếp tổ chức hội nghị.  | tổ chức hội nghị, dịch vụ tổ chức hội nghị, công ty tổ chức hội nghị | việc làm, tuyển dụng, tuyển nhân viên hội nghị |
+| 6 | **Tiệc** | `Nhật Chung` | - Doanh nghiệp/B2B: Tập đoàn, doanh nghiệp vừa & lớn, FDI, ngân hàng, bảo hiểm, dược – y tế, công nghệ, bất động sản, FMCG, hiệp hội; bộ phận Marketing, Event, PR, HR, Admin, Procurement. - Cơ quan/Tổ chức: Bộ ban ngành, trường đại học, viện nghiên cứu, bệnh viện, NGO/IGO, ban tổ chức hội nghị – hội thảo.  | dịch vụ tea break, dịch vụ tiệc tea break, tiệc tea break | tea break 10 người, 20 người, 30 người |
+| 7 | **Tour Inbound** | `Hà Đỗ` | 70% B2B/đoàn giá trị cao: Overseas Travel Agent, Tour Operator, Wholesaler, Group Travel Specialist, Luxury Travel Company, Incentive House, Event Agency, doanh nghiệp/tổ chức quốc tế, Product Manager, Contracting Manager, Destination Manager, Operations Manager.  | Vietnam tour, Vietnam private tour, Vietnam itinerary | DMC/tour operator/khách sạn/guide tự chào dịch vụ: we are a Vietnam DMC, our package, special offer |
+| 8 | **Tour Outbound** | `Hà Đỗ` | 70%: khách giá trị cao: doanh nghiệp, tập đoàn, HR/Admin, Procurement, Marketing, Sales, Executive Assistant, người phụ trách Company Trip/Incentive/Dealer Trip, người tổ chức đoàn/nhóm riêng, gia đình nhiều người. | cần tìm tour, tìm tour, cần tour | rao bán tour: sale tour, tour giá sốc, nhận khách |
+| 9 | **Tour Nội địa** | `Thùy Anh` | 80% – khách đoàn lớn: doanh nghiệp, công ty, tập đoàn, hiệp hội, hội nhóm lớn, hội đồng hương, nhóm họp lớp, đoàn xã/phường, liên hiệp phụ nữ; hàng chục đến hàng trăm người; nam và nữ 25–44 tuổi; tổng chi tiêu mục tiêu ≥30 triệu đồng.  | Khách đoàn: 
+tổ chức tour du lịch cho công ty, tour du lịch công ty, tour đoàn công ty | Khách đoàn: 
+Team Building độc lập, Gala Dinner độc lập, tổ chức sự kiện thuần túy |
+| 10 | **Xe** | `Thùy Anh` | - Khách đoàn 70%:  | thuê xe đi [địa điểm], thuê xe du lịch, thuê xe hội nghị | thuê xe tự lái, thuê xe tháng đưa đón nhân viên, mua xe |
+| 11 | **Vé** | `Thùy Anh` | Khách đoàn ~70%: Doanh nghiệp, công ty, tập đoàn, cơ quan, tổ chức, hiệp hội, hội nhóm/đoàn thể; người trực tiếp tìm & đặt thường là HCNS, HR, trợ lý, procurement, kế toán, hậu cần, trưởng đoàn/BTC. Quy mô hàng chục–hàng trăm người, giá trị booking cao.  | vé máy bay, đặt vé máy bay, vé máy bay đoàn | tuyển dụng, việc làm, tiếp viên |
+
+---
+
+## 🔍 CHI TIẾT QUY TẮC TỪNG HẠNG MỤC
+
+### <a id="hạng-mục-1-sự-kiện"></a>1. Hạng mục: Sự kiện
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Bích Hiển`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Khách hàng cao cấp 70%: Tập đoàn, doanh nghiệp lớn, FDI, ngân hàng, thương hiệu premium, tổ chức lớn, agency, trường học lớn, bệnh viện, hiệp hội, khách sạn/resort, chủ đầu tư. Người tìm/đề xuất thường là Marketing, Event, HR, Admin, Communication, Project Coordinator, Procurement; cấp duyệt gồm Manager/Director/Head/GM/CEO/Ban quản lý dự án. Ngân sách trọng tâm từ 150 triệu đồng trở lên.
+
+> - Khách hàng giá hợp lý 30%: SME, showroom, shop, café, nhà hàng, trung tâm giáo dục, CLB, nhóm cộng đồng, doanh nghiệp nhỏ; Founder/Marketing/HR/Admin trực tiếp phụ trách. Ngân sách thường dưới 20 triệu – 150 triệu đồng.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+- Khách cao cấp: Cần agency có thể nhận trọn gói, một đầu mối; tư vấn concept/venue; lập proposal; production; sân khấu, âm thanh ánh sáng, LED; nhân sự; VIP/guest experience; tiệc; media; timeline; rehearsal; quản lý vendor; phương án backup; xử lý chương trình quy mô lớn/phức tạp/nhiều stakeholder; deadline ngắn. 
+- Khách quy mô nhỏ: Có loại sự kiện + số khách + khoảng ngân sách và muốn được đề xuất phương án/package phù hợp; cần giá/hạng mục rõ ràng; setup nhanh, đẹp, đúng giờ; ít phát sinh; không phải làm việc với nhiều vendor. - Trigger cần bắt: YEP, Gala, Anniversary, Product Launch, khai trương, khánh thành, khởi công/động thổ, tri ân, conference, Family Day, Sport Day, Festival, Kick-off, workshop, activation, roadshow, sự kiện nội bộ.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `tổ chức sự kiện`
+- `dịch vụ tổ chức sự kiện`
+- `dịch vụ tổ chức sự kiện trọn gói`
+- `công ty tổ chức sự kiện`
+- `đơn vị tổ chức sự kiện`
+- `agency tổ chức sự kiện`
+- `event agency`
+- `event company`
+- `tổ chức sự kiện doanh nghiệp`
+- `công ty event`
+- `tổ chức corporate event`
+- `tổ chức sự kiện chuyên nghiệp`
+- `tổ chức sự kiện Hà Nội`
+- `tổ chức sự kiện Đà Nẵng`
+- `tổ chức sự kiện TP.HCM`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `tổ chức Year End Party`
+- `tổ chức YEP`
+- `tổ chức Gala Dinner`
+- `tổ chức gala`
+- `tổ chức lễ khởi công`
+- `tổ chức lễ động thổ`
+- `tổ chức lễ khai trương`
+- `tổ chức lễ khánh thành`
+- `tổ chức ra mắt sản phẩm`
+- `Product Launch`
+- `lễ kỷ niệm thành lập công ty`
+- `Anniversary`
+- `lễ tri ân khách hàng`
+- `Awards Night`
+- `lễ tổng kết vinh danh`
+- `tổ chức Family Day`
+- `Sport Day`
+- `Kick-off`
+- `workshop doanh nghiệp`
+- `activation`
+- `brand activation`
+- `roadshow`
+- `festival`
+- `lễ hội`
+- `sự kiện trường học`
+- `lễ khai giảng`
+- `lễ tốt nghiệp`
+- `event concept`
+- `concept sự kiện`
+- `proposal sự kiện`
+- `báo giá tổ chức sự kiện`
+- `chi phí tổ chức sự kiện`
+- `venue sự kiện`
+- `venue 5 sao`
+- `sân khấu sự kiện`
+- `production sự kiện`
+- `quản lý sự kiện`
+- `event management`
+- `tổ chức sự kiện full service`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `tuyển dụng tổ chức sự kiện`
+- ❌ `việc làm event`
+- ❌ `thực tập event`
+- ❌ `tuyển event executive`
+- ❌ `khóa học tổ chức sự kiện`
+- ❌ `học nghề tổ chức sự kiện`
+- ❌ `ngành tổ chức sự kiện`
+- ❌ `CV event`
+- ❌ `phần mềm quản lý sự kiện`
+- ❌ `game tổ chức sự kiện.`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: Cần gấp, cần ngay, tìm gấp
+
+> WARM: Cần báo giá, cần tư vấn
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên lead doanh nghiệp lớn/B2B khoảng 70%, khách quy mô nhỏ khoảng 30%. Không lọc lead chỉ theo tên sự kiện; cần đọc đồng thời Loại sự kiện → Quy mô → Ngân sách → Quy mô khách → Insight → mức độ phức tạp → nhu cầu vận hành. Ưu tiên lead cần full service/một đầu mối, có production, vận hành, khách VIP, nhiều vendor/stakeholder hoặc cần hệ sinh thái Event + Tour + Xe/Vé + Tiệc. 
+
+---
+
+### <a id="hạng-mục-2-thiết-bị"></a>2. Hạng mục: Thiết bị
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Phương Dung`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Doanh nghiệp/B2B 80%: DN lớn, DN vừa & nhỏ, tổ chức có nhu cầu thuê thiết bị cho hội nghị, hội thảo, lễ ký kết, khai trương, sự kiện nội bộ, YEP…
+
+> - Khách nhỏ lẻ 20%: cửa hàng, đơn vị nhỏ, cá nhân có nhu cầu thuê thiết bị cho chương trình quy mô nhỏ
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Thuê/cung cấp âm thanh, ánh sáng, màn hình LED, sân khấu và thiết bị sự kiện; cần setup thiết bị cho sự kiện; cần cấu hình thiết bị phù hợp quy mô/venue; cần setup gấp trong 24h; cần kỹ thuật vận hành tại sự kiện; cần giải pháp thiết bị đồng bộ; cần thiết bị cho Trung Thu, 20/10, Halloween, Giáng sinh, YEP; cần báo giá/đặt lịch thuê thiết bị.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `thuê thiết bị sự kiện`
+- `thiết bị sự kiện`
+- `cho thuê thiết bị sự kiện`
+- `thuê âm thanh sự kiện`
+- `thuê ánh sáng sự kiện`
+- `thuê màn hình LED`
+- `thuê sân khấu`
+- `âm thanh ánh sáng sự kiện`
+- `thiết bị hội nghị`
+- `thiết bị hội thảo`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `báo giá thiết bị sự kiện`
+- `báo giá thuê âm thanh ánh sáng`
+- `thuê LED sự kiện`
+- `màn hình LED hội nghị`
+- `âm thanh hội nghị`
+- `âm thanh hội thảo`
+- `thiết bị hội nghị doanh nghiệp`
+- `thiết bị hội thảo doanh nghiệp`
+- `thuê thiết bị YEP`
+- `thiết bị Year End Party`
+- `thiết bị Trung Thu`
+- `thiết bị sự kiện 20/10`
+- `thiết bị Halloween`
+- `thiết bị Giáng sinh`
+- `setup thiết bị sự kiện`
+- `setup sự kiện 24h`
+- `thuê thiết bị sự kiện trọn gói`
+- `kỹ thuật sự kiện`
+- `kỹ thuật âm thanh ánh sáng`
+- `thuê thiết bị sự kiện doanh nghiệp, tìm nhà cung cấp thiết bị`
+- `cần nhà cung cấp thiết bị`
+- `tìm NCC`
+- `cần NCC âm thanh ánh sáng`
+- `tìm vendor`
+- `cần vendor`
+- `tìm đơn vị cung cấp thiết bị`
+- `cần đội kỹ thuật`
+- `cần kỹ thuật âm thanh`
+- `cần kỹ thuật ánh sáng`
+- `cần kỹ thuật LED`
+- `cần nhân sự vận hành thiết bị`
+- `thuê kỹ thuật vận hành`
+- `operator LED`
+- `kỹ thuật trực sự kiện.`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `mua thiết bị`
+- ❌ `bán thiết bị`
+- ❌ `thiết bị cũ`
+- ❌ `thanh lý`
+- ❌ `sửa chữa`
+- ❌ `linh kiện`
+- ❌ `DIY/tự làm`
+- ❌ `tuyển dụng`
+- ❌ `việc làm`
+- ❌ `học nghề`
+- ❌ `khóa học`
+- ❌ `hướng dẫn sửa`
+- ❌ `karaoke gia đình`
+- ❌ `loa gia đình`
+- ❌ `loa bluetooth`
+- ❌ `thiết bị phòng thu`
+- ❌ `thiết bị cá nhân`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: Khách có sự kiện/chương trình cụ thể + thời gian tổ chức rõ + địa điểm/khu vực rõ + đang cần thuê thiết bị/báo giá/tư vấn cấu hình hoặc cần setup gấp.
+
+> WARM: Có nhu cầu tổ chức sự kiện hoặc quan tâm thuê thiết bị nhưng chưa chốt thời gian, địa điểm, cấu hình/quy mô hoặc đang tham khảo phương án và báo giá.
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên lead doanh nghiệp (80%), khách nhỏ lẻ 20%. Không cạnh tranh bằng giá; ưu tiên truyền thông và đánh giá lead dựa trên kinh nghiệm, uy tín, đội ngũ kỹ thuật, khả năng setup nhanh và hệ sinh thái thiết bị đồng bộ. Phân loại nhu cầu theo quy mô sự kiện: doanh nghiệp lớn - doanh nghiệp vừa & nhỏ - khách nhỏ lẻ. Khi tiếp nhận lead cần làm rõ: loại chương trình, thời gian, địa điểm, quy mô/số khách, hạng mục thiết bị cần thuê và yêu cầu kỹ thuật. Quy trình phục vụ gồm: tư vấn trước chương trình - khảo sát & đề xuất cấu hình - setup & test/soundcheck - kỹ thuật trực vận hành - phương án backup - tháo dỡ sau chương trình.
+
+---
+
+### <a id="hạng-mục-3-media"></a>3. Hạng mục: Media
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Phương Dung`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ, tổ chức, đơn vị tổ chức hội nghị - hội thảo, training, tọa đàm, khai trương, sự kiện nội bộ, MICE… có nhu cầu ghi hình và sản xuất tư liệu truyền thông.
+
+> - Khách nhỏ lẻ 20%: đơn vị/cá nhân có nhu cầu quay, chụp, livestream chương trình quy mô nhỏ.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Chụp ảnh sự kiện; quay video sự kiện; quay + chụp; quay - chụp - dựng; quay recap/highlight; livestream sự kiện; quay chụp + livestream; thuê thiết bị quay chụp; thuê nhân sự quay/chụp; cần ekip Media sự kiện; cần ghi hình toàn cảnh và khoảnh khắc quan trọng; cần tư liệu phục vụ truyền thông, báo cáo, lưu trữ sau sự kiện; cần đặt lịch Media trước sự kiện.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `quay phim sự kiện`
+- `chụp ảnh sự kiện`
+- `quay chụp sự kiện`
+- `media sự kiện`
+- `dịch vụ media sự kiện`
+- `livestream sự kiện`
+- `quay video sự kiện`
+- `quay phim hội nghị`
+- `chụp ảnh hội nghị`
+- `livestream hội nghị`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `báo giá quay chụp sự kiện`
+- `dịch vụ quay chụp sự kiện`
+- `ekip quay chụp sự kiện`
+- `thuê thợ quay sự kiện`
+- `thuê thợ chụp sự kiện`
+- `quay chụp hội nghị`
+- `quay chụp hội thảo`
+- `quay chụp training`
+- `quay chụp khai trương`
+- `quay recap sự kiện`
+- `video highlight sự kiện`
+- `quay chụp dựng video`
+- `combo quay chụp`
+- `combo quay chụp livestream`
+- `livestream hội thảo`
+- `livestream tọa đàm`
+- `livestream training`
+- `livestream khai trương`
+- `livestream 1 camera`
+- `livestream 2 camera`
+- `livestream 3 camera`
+- `quay chụp doanh nghiệp`
+- `chụp ảnh sự kiện doanh nghiệp`
+- `quay video sự kiện doanh nghiệp`
+- `flycam sự kiện`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `chụp ảnh cưới`
+- ❌ `quay phim cưới`
+- ❌ `wedding`
+- ❌ `chụp ảnh cá nhân`
+- ❌ `chụp ảnh gia đình`
+- ❌ `chụp ảnh thẻ`
+- ❌ `chụp kỷ yếu cá nhân/học sinh`
+- ❌ `studio ảnh`
+- ❌ `chụp sản phẩm`
+- ❌ `chụp mẫu`
+- ❌ `quay TikTok cá nhân`
+- ❌ `khóa học quay phim`
+- ❌ `khóa học nhiếp ảnh`
+- ❌ `học livestream`
+- ❌ `tuyển dụng`
+- ❌ `việc làm`
+- ❌ `mua máy ảnh`
+- ❌ `bán máy ảnh`
+- ❌ `sửa máy ảnh`
+- ❌ `review máy ảnh`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: Đã có chương trình cụ thể + ngày/giờ tổ chức + địa điểm/khu vực + nhu cầu Media tương đối rõ (quay/chụp/dựng/livestream, số camera…) và đang cần báo giá, tư vấn hoặc đặt ekip. Đặc biệt ưu tiên lead có lịch tổ chức gần hoặc yêu cầu giữ lịch ekip.
+
+> WARM: Đã có nhu cầu Media cho sự kiện nhưng chưa chốt một hoặc nhiều yếu tố như thời gian, địa điểm, quy mô, hạng mục, số camera/gói dịch vụ; đang tham khảo phương án hoặc báo giá.
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên B2B 80% - khách nhỏ lẻ 20%. Media sự kiện tập trung quay - chụp - dựng - livestream/hybrid - cho thuê thiết bị - nhân sự quay chụp. Khi tiếp nhận lead cần làm rõ: loại chương trình - thời gian - địa điểm - quy mô - mục đích sử dụng tư liệu - hạng mục cần thực hiện - yêu cầu đầu ra - nhu cầu livestream/số camera. Ekip cần nghiên cứu kịch bản/flow chương trình để chủ động nhân sự, góc máy và thiết bị, bảo đảm ghi được các khoảnh khắc quan trọng. Content phải chống trùng theo góc khai thác/insight/pain point/key message/CTA/visual/bằng chứng.
+
+---
+
+### <a id="hạng-mục-4-thi-công"></a>4. Hạng mục: Thi công
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Phương Dung`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ; thương hiệu/nhãn hàng; đơn vị tham gia triển lãm, hội chợ, activation; tổ chức có nhu cầu thi công không gian cho hội nghị, lễ ký kết, khai trương, khởi công - động thổ - khánh thành, sự kiện nội bộ…
+
+> - Khách nhỏ lẻ 20%: cửa hàng, đơn vị kinh doanh nhỏ hoặc cá nhân có nhu cầu thi công booth, backdrop, sân khấu và hạng mục sự kiện quy mô nhỏ.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Thi công gian hàng/booth triển lãm; booth activation; thi công sân khấu; sân khấu concept riêng; backdrop/check-in/photobooth; in ấn - sản xuất hạng mục sự kiện; POSM; standee, bảng welcome, bảng chỉ dẫn, hashtag, formex, decal, banner treo; thi công không gian sự kiện; thiết kế 2D/3D đi kèm thi công; thi công trọn gói; thi công lễ khởi công - động thổ - khánh thành; cần khảo sát, thiết kế, báo giá hoặc triển khai thi công theo deadline.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `thi công sự kiện`
+- `thi công gian hàng`
+- `thi công gian hàng triển lãm`
+- `thi công booth`
+- `thi công booth activation`
+- `thi công sân khấu`
+- `thi công backdrop`
+- `thi công triển lãm`
+- `thi công POSM`
+- `sản xuất POSM`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `báo giá thi công sự kiện`
+- `công ty thi công sự kiện`
+- `đơn vị thi công sự kiện`
+- `thi công sự kiện trọn gói`
+- `thiết kế thi công gian hàng`
+- `thiết kế booth activation`
+- `thi công booth quảng cáo`
+- `thi công booth thương hiệu`
+- `thi công gian hàng hội chợ`
+- `thi công gian hàng expo`
+- `thi công sân khấu sự kiện`
+- `thiết kế sân khấu sự kiện`
+- `sân khấu concept riêng`
+- `thi công khu vực check-in`
+- `thi công photobooth`
+- `làm backdrop sự kiện`
+- `in ấn sự kiện`
+- `sản xuất hạng mục sự kiện`
+- `làm standee`
+- `bảng welcome sự kiện`
+- `bảng chỉ dẫn sự kiện`
+- `hashtag sự kiện`
+- `formex sự kiện`
+- `decal sự kiện`
+- `banner sự kiện`
+- `thi công lễ khởi công`
+- `thi công lễ động thổ`
+- `thi công lễ khánh thành`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `thi công xây dựng`
+- ❌ `xây nhà`
+- ❌ `sửa nhà`
+- ❌ `cải tạo nhà`
+- ❌ `thi công nội thất nhà ở`
+- ❌ `nội thất căn hộ`
+- ❌ `thi công điện nước`
+- ❌ `công trình dân dụng`
+- ❌ `công trình công nghiệp`
+- ❌ `vật liệu xây dựng`
+- ❌ `tuyển dụng`
+- ❌ `việc làm`
+- ❌ `học nghề`
+- ❌ `khóa học`
+- ❌ `tự làm/DIY`
+- ❌ `bản vẽ xây dựng`
+- ❌ `thiết kế nhà`
+- ❌ `kiến trúc nhà ở`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: Đã có chương trình/dự án cụ thể + thời gian hoàn thiện/diễn ra + địa điểm + hạng mục cần thi công tương đối rõ và đang yêu cầu khảo sát, thiết kế, báo giá hoặc triển khai. Lead có deadline gần, đã có mặt bằng/kích thước, brief/concept hoặc yêu cầu sản xuất cụ thể được ưu tiên xử lý.
+
+> WARM: Đã phát sinh nhu cầu thi công nhưng chưa chốt một hoặc nhiều yếu tố như thời gian, địa điểm, kích thước, concept, hạng mục hoặc ngân sách; đang tham khảo ý tưởng, thiết kế/phương án và báo giá.
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên B2B 80% - khách nhỏ lẻ 20%. Không chỉ bắt lead theo từ khóa “thi công sự kiện”, cần nhận diện nhu cầu theo từng hạng mục: gian hàng - triển lãm - booth activation - sân khấu - backdrop/check-in - POSM - in ấn/sản xuất. Khi tiếp nhận lead cần làm rõ: loại chương trình - thời gian/deadline - địa điểm - diện tích/kích thước - hạng mục cần thi công - concept/nhận diện - yêu cầu thiết kế 2D/3D - ngân sách dự kiến. Thi công cần đồng bộ từ thiết kế, sản xuất đến lắp đặt tại địa điểm và bảo đảm tiến độ. Content áp dụng chống trùng riêng cho Thi công: khác góc khai thác, insight/pain point, key message, CTA, visual và dữ liệu/bằng chứng.
+
+---
+
+### <a id="hạng-mục-5-hội-nghị-mice"></a>5. Hạng mục: Hội nghị MICE
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Nhật Chung`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> NHÓM 1– Doanh nghiệp/tổ chức tư nhân 60%: tập đoàn, doanh nghiệp lớn/vừa, FDI, ngân hàng, dược – y tế, công nghệ, sản xuất, tài chính, giáo dục... Người đọc/tìm dịch vụ: Marketing/Branding, Communication/PR, Event, HR/Admin, Office Manager, thư ký/trợ lý, Project Coordinator, Procurement và người được giao trực tiếp tổ chức hội nghị.
+
+> NHÓM 2 – Cơ quan/tổ chức chuyên môn 40%: Bộ/Ban/Ngành, cơ quan Nhà nước, hiệp hội, bệnh viện, trường đại học, viện nghiên cứu, tổ chức quốc tế/NGO, tổ chức nghề nghiệp. Người đọc/tìm dịch vụ: Ban Tổ chức/Ban Thư ký, Hành chính/Tổng hợp, Hợp tác quốc tế, Truyền thông/Đối ngoại, Phòng Đào tạo/Quản lý khoa học, cán bộ phụ trách hội nghị.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Nhóm 1: cần đơn vị phản hồi nhanh, proposal/báo giá rõ, tối ưu ngân sách, ít phát sinh, một đầu mối xử lý toàn bộ; tổ chức hội nghị khách hàng, đối tác, sales conference, kick-off, tổng kết, đào tạo, đại hội cổ đông; cần venue, concept/thiết kế, check-in, VIP, hybrid, phiên dịch, logistics; deadline gấp và cần giảm tải điều phối. 
+
+Nhóm 2: cần uy tín, trang trọng, quy trình chuẩn; hồ sơ/giấy phép khi áp dụng; phối hợp cơ quan Nhà nước/Chính phủ; protocol, VIP/diễn giả, hội nghị quốc tế, hội nghị khoa học/Y khoa, nhiều stakeholder, nhiều điểm cầu; yêu cầu độ chính xác, backup, bảo mật và kinh nghiệm tương tự.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `tổ chức hội nghị`
+- `dịch vụ tổ chức hội nghị`
+- `công ty tổ chức hội nghị`
+- `tổ chức hội nghị trọn gói`
+- `tổ chức hội thảo`
+- `dịch vụ tổ chức hội thảo`
+- `công ty tổ chức hội thảo`
+- `tổ chức hội thảo trọn gói`
+- `tổ chức hội nghị khách hàng`
+- `tổ chức hội nghị doanh nghiệp`
+- `tổ chức hội nghị quốc tế`
+- `tổ chức hội thảo quốc tế`
+- `tổ chức hội nghị khoa học`
+- `tổ chức hội nghị y khoa`
+- `công ty tổ chức conference`
+- `conference organizer Vietnam`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `báo giá tổ chức hội nghị`
+- `chi phí tổ chức hội nghị`
+- `agency tổ chức hội nghị`
+- `đơn vị tổ chức hội nghị chuyên nghiệp`
+- `tổ chức hội nghị 100/300/500/1000 khách`
+- `tổ chức hội nghị khách hàng trọn gói`
+- `tổ chức sales conference`
+- `tổ chức kick off conference`
+- `tổ chức đại hội cổ đông`
+- `tổ chức diễn đàn`
+- `tổ chức tọa đàm`
+- `tổ chức hội thảo khoa học`
+- `tổ chức hội thảo y khoa`
+- `tổ chức hội nghị hybrid`
+- `hội nghị trực tuyến kết hợp trực tiếp`
+- `tổ chức hội nghị đa điểm cầu`
+- `phiên dịch hội nghị`
+- `cabin dịch hội nghị`
+- `check-in hội nghị`
+- `quản lý đại biểu`
+- `VIP protocol hội nghị`
+- `venue hội nghị`
+- `địa điểm tổ chức hội nghị`
+- `thiết kế sân khấu hội nghị`
+- `concept hội nghị`
+- `xin phép hội nghị hội thảo quốc tế`
+- `thủ tục tổ chức hội nghị quốc tế`
+- `local conference organizer Vietnam`
+- `conference management company Vietnam`
+- `international conference organizer Vietnam`
+- `MICE conference Vietnam`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `việc làm`
+- ❌ `tuyển dụng`
+- ❌ `tuyển nhân viên hội nghị`
+- ❌ `khóa học`
+- ❌ `học tổ chức sự kiện`
+- ❌ `giáo trình`
+- ❌ `luận văn`
+- ❌ `tiểu luận`
+- ❌ `đề tài`
+- ❌ `powerpoint/PPT`
+- ❌ `slide mẫu`
+- ❌ `mẫu bài phát biểu`
+- ❌ `bài phát biểu khai mạc`
+- ❌ `biên bản hội nghị`
+- ❌ `mẫu biên bản`
+- ❌ `nghị quyết hội nghị`
+- ❌ `hội nghị trực tuyến miễn phí`
+- ❌ `Zoom miễn phí`
+- ❌ `Google Meet`
+- ❌ `phần mềm họp`
+- ❌ `app họp online`
+- ❌ `tải tài liệu`
+- ❌ `hình nền hội nghị`
+- ❌ `hội nghị Diên Hồng`
+- ❌ `lịch họp`
+- ❌ `phòng họp cá nhân`
+- ❌ `thuê phòng họp theo giờ.`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: cần gấp; tìm gấp; cần ngay; cần đơn vị tổ chức hội nghị gấp; cần tổ chức hội nghị gấp
+
+> WARM: cần báo giá; xin báo giá; cần tư vấn; xin proposal; tham khảo chi phí; tìm đơn vị tổ chức hội nghị; tìm công ty tổ chức hội nghị
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên lead B2B và tổ chức chuyên môn, không định vị bằng giá rẻ. Bán bằng: chuyên nghiệp có proof + giấy phép/thủ tục + Government coordination + protocol/VIP + full service + một đầu mối + thiết kế sáng tạo + case thực tế + backup/risk management. Không tách content bán riêng AV/Thiết bị, Tour/HBT, HBA/HBBus; các dịch vụ này chỉ là hạng mục bổ trợ của giải pháp hội nghị trọn gói. Case phải thể hiện: bài toán → giải pháp → triển khai → proof → kết quả → CTA. Với từ khóa “giấy phép hội nghị quốc tế”, phải xác định đúng trường hợp pháp lý; không mặc định mọi hội nghị có người nước ngoài đều phải xin phép.
+
+---
+
+### <a id="hạng-mục-6-tiệc"></a>6. Hạng mục: Tiệc
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Nhật Chung`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Doanh nghiệp/B2B: Tập đoàn, doanh nghiệp vừa & lớn, FDI, ngân hàng, bảo hiểm, dược – y tế, công nghệ, bất động sản, FMCG, hiệp hội; bộ phận Marketing, Event, PR, HR, Admin, Procurement. - Cơ quan/Tổ chức: Bộ ban ngành, trường đại học, viện nghiên cứu, bệnh viện, NGO/IGO, ban tổ chức hội nghị – hội thảo.
+
+> - Agency/Event Organizer: cần nhà cung cấp Tea Break có khả năng phối hợp theo concept và timeline sự kiện. - Điều kiện bắt buộc: chỉ nhận chương trình từ 50 khách trở lên. Không định vị cho tiệc cá nhân hoặc đơn nhỏ.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+1. Thực đơn ngon & phù hợp: khách cần menu chất lượng, hài hòa, phù hợp khách mời và tính chất chương trình. 
+
+2. Setup theo concept: cần bàn Tea Break đồng bộ màu sắc, chủ đề, brand guideline hoặc concept tổng thể của sự kiện. 
+
+3. Hình ảnh nhân sự chuyên nghiệp: nhân viên phục vụ nhiệt tình, tác phong chỉn chu, trang phục đẹp và phù hợp chương trình. 
+
+4. Tư vấn đồng bộ trọn gói: khách có thể chưa có venue/concept hoàn chỉnh, cần đơn vị hỗ trợ tìm hoặc đề xuất địa điểm, gợi ý concept trang trí, bố trí không gian, menu, nhân sự và vận hành. 
+
+5. Sự chuyên nghiệp & đẳng cấp: Tea Break phải góp phần nâng hình ảnh doanh nghiệp và trải nghiệm khách mời chứ không chỉ là giờ ăn nhẹ.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `dịch vụ tea break`
+- `dịch vụ tiệc tea break`
+- `tiệc tea break`
+- `tổ chức tiệc tea break`
+- `tea break hội nghị`
+- `tea break hội thảo`
+- `tea break sự kiện`
+- `tea break doanh nghiệp`
+- `đặt tiệc tea break`
+- `catering tea break`
+- `dịch vụ tea break trọn gói`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `báo giá tea break`
+- `menu tea break`
+- `tea break cho hội nghị`
+- `tea break cho sự kiện doanh nghiệp`
+- `tea break cho hội thảo`
+- `tea break cho lễ khai trương`
+- `tea break cho lễ ra mắt sản phẩm`
+- `tea break cho hội nghị khách hàng`
+- `tea break cao cấp`
+- `luxury tea break`
+- `premium tea break`
+- `tea break setup theo concept`
+- `tea break theo concept thương hiệu`
+- `tea break trang trí theo yêu cầu`
+- `tea break trọn gói`
+- `tea break có nhân viên phục vụ`
+- `tea break chuyên nghiệp`
+- `tea break cao cấp cho doanh nghiệp`
+- `catering sự kiện doanh nghiệp`
+- `catering hội nghị`
+- `tư vấn địa điểm tổ chức hội nghị và tea break`
+- `tea break kết hợp hội nghị`
+- `tea break theo nhận diện thương hiệu`
+- `tea break cho khách VIP`
+- `tea break cho khách quốc tế. Theo quy mô: tea break 50 người`
+- `tea break 100 người`
+- `tea break 200 người`
+- `tea break 300 người`
+- `tea break sự kiện quy mô lớn`
+- `dịch vụ tea break Hà Nội`
+- `tea break Đà Nẵng`
+- `tea break TP.HCM`
+- `catering tea break Hà Nội/Đà Nẵng/TP.HCM`
+- `“TeaBreak doanh nghiệp”, “TeaBreak hội nghị”`
+- `“setup theo concept”`
+- `“catering trọn gói”.`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `tea break 10 người`
+- ❌ `20 người`
+- ❌ `30 người`
+- ❌ `40 người`
+- ❌ `tiệc nhỏ`
+- ❌ `tiệc ít người. Theo B2C/cá nhân: tiệc sinh nhật tại nhà`
+- ❌ `tiệc gia đình`
+- ❌ `tiệc cưới`
+- ❌ `đám hỏi`
+- ❌ `thôi nôi`
+- ❌ `đầy tháng`
+- ❌ `tiệc tại nhà. Theo sản phẩm lẻ: mua bánh lẻ`
+- ❌ `đặt bánh ngọt`
+- ❌ `bánh sinh nhật`
+- ❌ `quán bánh`
+- ❌ `quán cafe`
+- ❌ `trà sữa`
+- ❌ `mua trà/cà phê`
+- ❌ `bánh giao tận nơi. Theo phân khúc không phù hợp: tea break siêu rẻ`
+- ❌ `tea break giá rẻ nhất`
+- ❌ `buffet cưới giá rẻ`
+- ❌ `catering cá nhân giá rẻ. Theo tuyển dụng/thông tin ngoài intent: việc làm catering`
+- ❌ `tuyển nhân viên phục vụ`
+- ❌ `công thức làm bánh`
+- ❌ `cách làm bánh`
+- ❌ `học pha chế`
+- ❌ `khóa học catering.`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: Cần gấp, cần ngay, đặt gấp, cần Tea Break gấp, cần tiệc gấp, cần setup gấp, cần phục vụ gấp
+
+> WARM: Cần báo giá, xin báo giá, cần tư vấn, tìm đơn vị Tea Break, tìm bên làm tiệc, xin menu, tham khảo menu, cần concept
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên lead B2B có nhu cầu “giải pháp Tea Break”, không chạy theo lead mua đồ ăn lẻ. Khi Sale qualify lead cần hỏi tối thiểu: (1) số khách – phải ≥50; (2) ngày/khung giờ; (3) địa điểm hoặc nhu cầu tìm venue; (4) loại chương trình; (5) đối tượng khách mời; (6) ngân sách dự kiến; (7) Standard/Luxury hoặc mức trải nghiệm mong muốn; (8) yêu cầu concept/brand color; (9) nhân sự phục vụ/trang phục; (10) các hạng mục cần tư vấn đồng bộ. Điểm bán chính: thực đơn ngon + setup sáng tạo theo concept + đội ngũ phục vụ chuyên nghiệp + tư vấn địa điểm/concept + khả năng triển khai đồng bộ với hội nghị/sự kiện. Không định vị bằng “bánh ngon – trà ngon – giá rẻ”; không tập trung content vào từng món. Thị trường đại trà hiện có nhiều nhà cung cấp nhận từ số lượng nhỏ và cạnh tranh mạnh bằng giá, vì vậy The HBG nên tránh cuộc chơi đó và giữ phân khúc B2B ≥50 khách, chuyên nghiệp – đẳng cấp – concept-driven – one-stop consulting.
+
+---
+
+### <a id="hạng-mục-7-tour-inbound"></a>7. Hạng mục: Tour Inbound
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Hà Đỗ`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> 70% B2B/đoàn giá trị cao: Overseas Travel Agent, Tour Operator, Wholesaler, Group Travel Specialist, Luxury Travel Company, Incentive House, Event Agency, doanh nghiệp/tổ chức quốc tế, Product Manager, Contracting Manager, Destination Manager, Operations Manager.
+
+> 30% B2C: khách quốc tế cá nhân, cặp đôi, gia đình, private group đang lên kế hoạch đi Việt Nam.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+B2B: tìm Vietnam DMC/local operator/ground handler; gửi RFQ; xin net rate; xin quotation; sample itinerary; sản phẩm FIT/Group; đoàn Việt Nam; trip/Incentive; cần land arrangement; tìm partner, vendor tại Việt Nam; cần báo giá khách sạn/xe/guide/tour theo gói. 
+
+B2C: planning Vietnam trip; cần itinerary; private/custom tour; family/group Vietnam; tour Bắc/Trung/Nam/xuyên Việt; Vietnam; local guide; private car; airport transfer; day tour; cần local travel agency/operator.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `Vietnam tour`
+- `Vietnam private tour`
+- `Vietnam itinerary`
+- `Vietnam package tour`
+- `Vietnam family tour`
+- `Vietnam group tour`
+- `Vietnam travel agency`
+- `Vietnam Vendor`
+- `Vietnam travel vendor`
+- `Vietnam agencies, Vietnam travel agencies`
+- `Vietnam DMC`
+- `DMC Vietnam`
+- `local tour operator Vietnam`
+- `local operator Vietnam`
+- `Vietnam ground handler`
+- `looking for DMC in Vietnam`
+- `need DMC Vietnam`
+- `RFQ Vietnam`
+- `Vietnam net rate`
+- `Vietnam MICE`
+- `Vietnam incentive`
+- `Vietnam local guide`
+- `Vietnam private transport`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `planning a trip to Vietnam`
+- `first time in Vietnam`
+- `10 days in Vietnam`
+- `14 days in Vietnam`
+- `North Vietnam itinerary`
+- `Central Vietnam itinerary`
+- `South Vietnam itinerary`
+- `Hanoi Halong Ninh Binh`
+- `Da Nang Hoi An Hue`
+- `Ho Chi Minh Mekong Cu Chi`
+- `Vietnam Cambodia itinerary`
+- `private driver Vietnam`
+- `guide language`
+- `4 star/5 star hotel`
+- `X pax`
+- `group size`
+- `need quotation`
+- `current rates`
+- `inclusions`
+- `booking terms`
+- `land arrangement`
+- `ground services`
+- `supplier in Vietnam`
+- `travel partner Vietnam`
+- `destination management company.`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `DMC/tour operator/khách sạn/guide tự chào dịch vụ: we are a Vietnam DMC`
+- ❌ `our package`
+- ❌ `special offer`
+- ❌ `agent rate available`
+- ❌ `we provide...`
+- ❌ `contact us for Vietnam tours. hiring HDV/sales, guide`
+- ❌ `find job, blogger/influencer`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT B2B: đang tìm DMC/local operator hoặc gửi RFQ và có các dữ kiện như source market, dates, passenger count, route, hotel category, guide language, yêu cầu rate/net rate.
+
+> HOT B2C: có dates + pax + tuyến/thời lượng và đang hỏi tour/private tour/quotation/local operator.
+
+> WARM B2B: đang xây sản phẩm Việt Nam, hỏi sample itinerary/rate/product nhưng chưa có đoàn cụ thể.
+
+> WARM B2C: đang lên kế hoạch Việt Nam, đã có tháng/thời lượng/khu vực và hỏi itinerary/route/provider nhưng chưa tới bước chào giá.
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Mỗi lead phải xác định tối thiểu B2B hay B2C + Source Market + tuyến Việt Nam. Với B2B cần bắt thêm: partner type, chức danh/người liên hệ, RFQ, hotel category, guide language, service scope. Với B2C cần bắt: nationality/source market, dates, pax, duration, route, hotel expectation, private/group. Nếu group dùng ngôn ngữ địa phương, đặt keyword bản địa vào cột “Từ khóa riêng của group”, thay vì nhồi mọi ngôn ngữ vào cấu hình master.
+
+---
+
+### <a id="hạng-mục-8-tour-outbound"></a>8. Hạng mục: Tour Outbound
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Hà Đỗ`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> 70%: khách giá trị cao: doanh nghiệp, tập đoàn, HR/Admin, Procurement, Marketing, Sales, Executive Assistant, người phụ trách Company Trip/Incentive/Dealer Trip, người tổ chức đoàn/nhóm riêng, gia đình nhiều người.
+
+> 30%: cá nhân, cặp đôi, gia đình, nhóm bạn nhỏ đang chủ động tìm tour nước ngoài.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Tìm/cần đơn vị tổ chức tour nước ngoài; xin chương trình/báo giá; tìm tour theo điểm đến; tour đoàn/công ty; tour riêng/custom; tour ghép; Company Trip/Incentive/Dealer Trip; so sánh tour; hỏi công ty du lịch uy tín; cần tư vấn lịch trình, visa, chuyến bay, khách sạn trong bối cảnh chuẩn bị chuyến đi; gia đình/nhóm cần phương án phù hợp trẻ em/người lớn tuổi; đoàn nhiều điểm khởi hành.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `cần tìm tour`
+- `tìm tour`
+- `cần tour`
+- `xin báo giá tour`
+- `báo giá tour`
+- `cần công ty du lịch`
+- `tìm công ty du lịch`
+- `đơn vị tổ chức tour`
+- `tour đoàn`
+- `tour công ty`
+- `tour doanh nghiệp`
+- `company trip`
+- `incentive trip`
+- `dealer trip`
+- `tour riêng`
+- `private tour`
+- `tour thiết kế`
+- `tour theo yêu cầu`
+- `tour ghép`
+- `đặt tour`
+- `giá tour`
+- `lịch khởi hành`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `có bên nào làm tour`
+- `ai có tour`
+- `xin contact bên tour`
+- `nhờ tư vấn`
+- `đang tìm bên tổ chức`
+- `xin lịch trình`
+- `xin chương trình`
+- `đoàn ... người`
+- `gia đình ... người`
+- `team ... người`
+- `budget ...`
+- `đi tháng ...`
+- `đi dịp Tết/30-4/hè/2-9/Noel`
+- `tour không shopping`
+- `tour no shopping`
+- `visa Nhật/Hàn/Úc/Âu/Mỹ...`
+- `khởi hành Hà Nội/HCM/Đà Nẵng`
+- `kết hợp với tên điểm đến như Nhật Bản, Hàn Quốc, Trung Quốc, Đài Loan, Thái Lan, Singapore, Châu Âu, Úc, Mỹ...`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `rao bán tour: sale tour`
+- ❌ `tour giá sốc`
+- ❌ `nhận khách`
+- ❌ `đại lý`
+- ❌ `CTV`
+- ❌ `hoa hồng`
+- ❌ `còn slot`
+- ❌ `còn chỗ`
+- ❌ `khởi hành hàng tuần`
+- ❌ `landtour`
+- ❌ `DMC chào giá`
+- ❌ `combo giá rẻ`
+- ❌ `nhận booking`
+- ❌ `tuyển HDV`
+- ❌ `tuyển tour leader, tuyển sales du lịch, review chuyến đi đã hoàn thành, chia sẻ ảnh/clip không có ý định muaỉ, hỏi visa/vé máy bay riêng lẻ`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT: có tín hiệu “cần/tìm/báo giá/đặt”, đồng thời đã có ít nhất 2–3 thông tin như điểm đến, ngày/tháng đi, số khách, điểm khởi hành, ngân sách; đặc biệt HOT nếu là đoàn/doanh nghiệp hoặc để SĐT/Zalo công khai.
+
+> WARM: đã có điểm đến hoặc thời gian dự kiến và đang hỏi tour/lịch trình/công ty/visa/so sánh phương án, nhưng chưa có đủ số khách/ngày/ngân sách hoặc chưa yêu cầu báo giá.
+
+> COLD nên lưu nhưng không đẩy Sales: chỉ hỏi kinh nghiệm, mùa đẹp, ảnh điểm đến, chưa có dấu hiệu đang lên kế hoạch mua.
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên 70% đoàn/doanh nghiệp/người tổ chức. Không yêu cầu bài phải có chữ “tour”: một bài “Công ty 45 người muốn đi Nhật tháng 11, cần bên lên phương án” phải được nhận là HOT. Cần extract riêng: điểm đến, ngày đi, số khách, điểm khởi hành, loại tour, ngân sách, nhu cầu visa, yêu cầu đặc biệt và contact công khai.
+
+---
+
+### <a id="hạng-mục-9-tour-nội-địa"></a>9. Hạng mục: Tour Nội địa
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Thùy Anh`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> 80% – khách đoàn lớn: doanh nghiệp, công ty, tập đoàn, hiệp hội, hội nhóm lớn, hội đồng hương, nhóm họp lớp, đoàn xã/phường, liên hiệp phụ nữ; hàng chục đến hàng trăm người; nam và nữ 25–44 tuổi; tổng chi tiêu mục tiêu ≥30 triệu đồng.
+
+> 20% – khách lẻ/nhóm nhỏ: khách tour ghép, cặp đôi, nhóm bạn, gia đình nhỏ 2–4 người; chủ yếu nữ 25–44 tuổi; nhu cầu đi ngắn ngày/cuối tuần; tổng chi tiêu mục tiêu ≤20 triệu đồng.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Khách đoàn: tìm đơn vị tổ chức tour cho đoàn đông; xin báo giá theo số người; cần thiết kế lịch trình riêng; tour khởi hành từ địa phương cụ thể; cần đồng bộ xe–ăn–ở–HDV–bảo hiểm; cần quản lý timeline, chia xe/phòng/nhóm; cần hợp đồng, hóa đơn, chứng từ; cần phương án xử lý phát sinh; có thể cần kết hợp Team Building/Gala Dinner. 
+
+Khách lẻ: tìm tour trọn gói, tour ghép, giá và lịch trình cụ thể; tour cuối tuần/ngắn ngày; tour đúng mùa; giảm thời gian tự đặt xe, phòng, vé và điểm tham quan.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `Khách đoàn: 
+tổ chức tour du lịch cho công ty`
+- `tour du lịch công ty`
+- `tour đoàn công ty`
+- `tour khách đoàn`
+- `báo giá tour đoàn`
+- `tour [điểm đến] cho đoàn [số người]`
+- `tour công ty [điểm đến] [thời lượng]`
+- `tour đoàn khởi hành từ [điểm xuất phát]`
+- `tour [điểm đến] kết hợp Team Building`
+- `tour [điểm đến] kết hợp Gala Dinner`
+- `tour [điểm đến] Team Building Gala Dinner [thời lượng]
+
+Khách lẻ: 
+tour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]`
+- `tour [điểm xuất phát] đi [điểm đến] [thời lượng]`
+- `tour [điểm đến] trọn gói`
+- `tour ghép [điểm đến]`
+- `tour [điểm đến] có vé máy bay`
+- `tour [điểm đến] giá bao nhiêu`
+- `tour [điểm đến] khởi hành tháng [x]`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `Khách đoàn:
+Cần tìm công ty tổ chức tour cho đoàn 50 người”`
+- `“xin báo giá tour Đà Nẵng 3N2Đ cho công ty”`
+- `“đoàn 80 người đi Hạ Long cần lịch trình và khách sạn”`
+- `“công ty cần đi nghỉ mát kết hợp Team Building”`
+- `“cần đơn vị lo tour, Team Building và Gala Dinner”`
+- `“xin chương trình tour đoàn xuất phát từ Hà Nội”`
+- `“tour đoàn có hóa đơn VAT”`
+- `“tour công ty 2N1Đ gần Hà Nội”`
+- `“đoàn họp lớp 40 người muốn đi [điểm đến]”`
+- `“xin báo giá trọn gói xe, phòng, ăn và hướng dẫn viên”
+
+Khách lẻ: 
+“Đi [điểm đến] 3N2Đ từ Hà Nội có tour nào?”`
+- `“xin giá tour Phú Quốc cho 4 người”`
+- `“tour Đà Nẵng 4N3Đ bao gồm vé máy bay”`
+- `“tour Sapa cuối tuần”`
+- `“tour ghép Hà Giang khởi hành thứ Sáu”`
+- `“gia đình 4 người đi Nha Trang nên chọn tour nào?”`
+- `“tour [điểm đến] khách sạn 3 sao/4 sao”`
+- `“tour [điểm đến] dịp [ngày lễ còn hiệu lực]”`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `Khách đoàn: 
+Team Building độc lập`
+- ❌ `Gala Dinner độc lập`
+- ❌ `tổ chức sự kiện thuần túy`
+- ❌ `hội nghị/hội thảo không có tour`
+- ❌ `thuê MC/âm thanh/ánh sáng riêng`
+- ❌ `thuê xe lẻ`
+- ❌ `đặt phòng lẻ`
+- ❌ `vé máy bay lẻ`
+- ❌ `tour nước ngoài`
+- ❌ `visa`
+- ❌ `tuyển dụng`
+- ❌ `khóa học`
+- ❌ `mẫu kịch bản miễn phí không có nhu cầu mua tour, tìm địa điểm tổ chức teambuilding
+
+Khách lẻ:
+Tour nước ngoài`
+- ❌ `outbound`
+- ❌ `visa`
+- ❌ `du học`
+- ❌ `xuất khẩu lao động`
+- ❌ `vé máy bay lẻ`
+- ❌ `phòng khách sạn lẻ`
+- ❌ `thuê xe lẻ`
+- ❌ `tuyển dụng du lịch`
+- ❌ `khóa học hướng dẫn viên`
+- ❌ `lịch trình tự túc thuần túy nếu mục tiêu chỉ bắt lead đặt tour`
+- ❌ `tour của dịp đã qua`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT – Khách đoàn:
+
+> cần tìm công ty du lịch; cần tìm bên tổ chức tour; cần đơn vị lo tour; xin báo giá tour đoàn; cần báo giá gấp; cần tour cho công ty; cần chương trình tour; cần book tour; cần chốt tour; tìm tour cho đoàn; đoàn [số người]; công ty [số người]; xuất phát từ [địa điểm]; đi [điểm đến]; tour 2N1Đ/3N2Đ/4N3Đ; tour trọn gói; tour kết hợp Team Building; tour kết hợp Gala Dinner; cần hóa đơn; cần hợp đồng	hôm nay; cần gấp; sớm giúp; tuần này; cuối tuần này; tháng này; tháng sau; đi ngày [dd/mm]; khởi hành ngày [dd/mm]; chốt trong hôm nay; chốt trong tuần; sát ngày; còn chỗ không; cần gửi báo giá trước ngày [dd/mm]
+
+> WARM – Khách đoàn:
+
+> công ty dự định đi du lịch; đang lên kế hoạch du lịch công ty; tham khảo tour đoàn; xin chương trình tham khảo; xin gợi ý địa điểm; đoàn đông nên đi đâu; công ty nên đi đâu; xin review công ty du lịch; bên nào tổ chức tour đoàn uy tín; giá tour đoàn khoảng bao nhiêu; chi phí Team Building; tham khảo Gala Dinner; tour cho đoàn đông; tour công ty; company trip; du lịch tập thể; nghỉ mát công ty
+
+> dự kiến; khoảng tháng [x]; hè này; cuối năm; quý tới; năm sau; sắp tới; trong thời gian tới; chưa chốt ngày; chưa chốt số lượng; đang khảo sát; đang tham khảo; lên kế hoạch trước
+
+> HOT – Khách lẻ/nhóm nhỏ:
+
+> cần tìm tour; muốn đặt tour; cần book tour; xin giá tour; tour còn chỗ không; cần tour ghép; tìm tour trọn gói; tour cho 2/3/4 người; tour gia đình; tour nhóm bạn; tour [điểm đến] [thời lượng]; khởi hành từ [địa điểm]; tour có vé máy bay; giá đã gồm khách sạn chưa; đặt cọc thế nào
+
+> hôm nay; mai; cuối tuần này; tuần sau; tháng này; ngày [dd/mm]; khởi hành [dd/mm]; cần gấp; sát ngày; còn chỗ không; chốt luôn; đặt luôn
+
+> WARM – Khách lẻ/nhóm nhỏ:
+
+> tham khảo tour; xin review tour; xin gợi ý điểm đến; nên đi đâu; tour nào phù hợp; giá khoảng bao nhiêu; đi [điểm đến] có tour nào; tour cuối tuần; tour cho gia đình; tour nhóm bạn; lịch trình tham khảo; đi mùa nào đẹp
+
+> tháng sau; vài tháng tới; hè này; cuối năm; dịp lễ; sắp tới; chưa chốt ngày; đang tham khảo; dự định đi; tính đi; khoảng tháng [x]
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Không gộp khách khởi hành từ Hà Nội, Đà Nẵng và TP.HCM vào cùng một phương án giá. Chỉ tiếp nhận sản phẩm có điểm xuất phát và toàn bộ điểm đến thuộc Việt Nam. Phải hỏi tối thiểu: (1) Điểm xuất phát; (2) Điểm đến mong muốn; (3) Ngày hoặc khoảng thời gian đi; (4) Thời lượng; (5) Số người; (6) Tour thuần hay kết hợp Team Building/Gala Dinner; (7) Mức ngân sách hoặc tiêu chuẩn dịch vụ; (8) Thông tin liên hệ. Với khách đoàn cần hỏi thêm: cơ cấu trẻ em/người lớn tuổi/khách nước ngoài nếu có; tiêu chuẩn khách sạn; phương tiện; nhu cầu hóa đơn, chứng từ; chia xe/phòng; người quyết định; hạn nhận báo giá và hạn chốt. Team Building/Gala Dinner chỉ là hạng mục kết hợp trong tour, không tách thành lead dịch vụ độc lập. Không tự đánh HOT chỉ vì khách tìm “tour Sapa”, “tour Phú Quốc” hoặc để lại tương tác; phải có tín hiệu mua và dữ liệu chuyến đi. Nếu khách đã yêu cầu báo giá nhưng thiếu điểm xuất phát thì vẫn để WARM cho đến khi xác minh.
+
+---
+
+### <a id="hạng-mục-10-xe"></a>10. Hạng mục: Xe
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Thùy Anh`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> - Khách đoàn 70%:
+
+> Doanh nghiệp, cơ quan, tổ chức, hiệp hội, đoàn thể, hội nhóm, họp lớp; người phụ trách thường là HR, Admin, Event, hậu cần, trưởng đoàn. Quy mô từ hàng chục đến hàng trăm người.
+
+> - Khách lẻ 30%:
+
+> Cá nhân, gia đình, nhóm bạn nhỏ; ưu tiên người có nhu cầu thuê xe riêng cho chuyến đi ngắn, du lịch, đưa đón người thân.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Khách đoàn: cần xe đúng giờ, đủ chỗ, phù hợp quy mô đoàn; điều phối nhiều xe/điểm đón; bám timeline hội nghị, sự kiện, du lịch; tài xế kinh nghiệm; xe chất lượng; hóa đơn/chứng từ rõ ràng. 
+
+Khách lẻ: quan tâm giá, loại xe phù hợp, an toàn, tài xế, chi phí phát sinh, đón đúng giờ và hành trình thuận tiện.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `thuê xe đi [địa điểm]`
+- `thuê xe du lịch`
+- `thuê xe hội nghị`
+- `thuê xe sự kiện`
+- `thuê xe sân bay`
+- `thuê xe khảo sát`
+- `thuê xe công tác`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `thuê xe đưa đón đoàn`
+- `thuê xe doanh nghiệp`
+- `thuê xe company trip`
+- `thuê xe team building`
+- `thuê xe họp lớp`
+- `thuê xe hội nhóm`
+- `xe đưa đón đại biểu`
+- `thuê xe gia đình`
+- `thuê xe đi tỉnh`
+- `thuê xe có lái`
+- `thuê xe 4 chỗ`
+- `7 chỗ`
+- `16 chỗ`
+- `29 chỗ`
+- `35 chỗ`
+- `45 chỗ`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `thuê xe tự lái`
+- ❌ `thuê xe tháng đưa đón nhân viên`
+- ❌ `mua xe`
+- ❌ `bán xe`
+- ❌ `xe cũ`
+- ❌ `tuyển lái xe`
+- ❌ `việc làm lái xe`
+- ❌ `học lái xe`
+- ❌ `sửa xe`
+- ❌ `phụ tùng`
+- ❌ `xe tải`
+- ❌ `chuyển hàng`
+- ❌ `vé xe khách`
+- ❌ `xe tuyến cố định`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT:
+
+> cần thuê xe, tìm xe, cần xe, book xe, đặt xe, chốt xe, xin báo giá, báo giá giúp, còn xe không, check xe, cần gấp, cần xe đoàn, cần xe 16/29/35/45 chỗ, xe đi + địa điểm, xe đón sân bay, xe hội nghị, xe sự kiện, xe đi team building/company trip
+
+> WARM
+
+> tham khảo thuê xe, xin giá, hỏi giá, xin báo giá tham khảo, cần tư vấn xe, tìm đơn vị thuê xe uy tín, dự kiến thuê xe, đang lên kế hoạch, hỏi xe cho đoàn, cần phương án xe, tham khảo xe 16/29/35/45 chỗ
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên khách đoàn 70%, khách lẻ 30%. Không cạnh tranh bằng “rẻ nhất”; nhấn mạnh đúng giờ – an toàn – chuyên nghiệp – chất lượng – năng lực phục vụ đoàn lớn. Không nhận diện “thuê xe đưa đón nhân viên cố định theo tháng” là nhóm dịch vụ trọng tâm. Giá, xe và khả năng nhận chuyến phải kiểm tra theo từng booking; không tự cam kết khi chưa có xác nhận điều hành.
+
+---
+
+### <a id="hạng-mục-11-vé"></a>11. Hạng mục: Vé
+
+- **Nhân sự phụ trách tiếp nhận Lead:** `Thùy Anh`
+
+#### 🎯 1. Đối tượng khách hàng mục tiêu
+> Khách đoàn ~70%: Doanh nghiệp, công ty, tập đoàn, cơ quan, tổ chức, hiệp hội, hội nhóm/đoàn thể; người trực tiếp tìm & đặt thường là HCNS, HR, trợ lý, procurement, kế toán, hậu cần, trưởng đoàn/BTC. Quy mô hàng chục–hàng trăm người, giá trị booking cao.
+
+> Khách lẻ ~30%: Cá nhân, gia đình nhỏ, nhóm bạn <5 người; chủ yếu người trực tiếp tìm vé/so sánh giá, quan tâm cả giá và độ uy tín của đại lý.
+
+#### 💡 2. Nhu cầu cụ thể & Trigger nhận diện
+Khách đoàn: cần đủ chỗ cho đoàn; giờ bay phù hợp timeline; quản lý nhiều hành khách; xử lý danh sách thay đổi/sai tên; hoàn–đổi; hành lý; hóa đơn/chứng từ; hỗ trợ nhanh khi phát sinh; có một đầu mối theo sát booking. 
+
+Khách lẻ: cần giá vé cụ thể; giờ bay/hãng phù hợp; tổng chi phí & hành lý; điều kiện hoàn đổi; đại lý có uy tín không; có người hỗ trợ khi chuyến bay thay đổi.
+
+#### 🔑 3. Bộ từ khóa chính (Main Keywords)
+- `vé máy bay`
+- `đặt vé máy bay`
+- `vé máy bay đoàn`
+- `vé máy bay cho công ty`
+- `vé máy bay doanh nghiệp`
+- `đại lý vé máy bay`
+
+#### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
+- `vé máy bay đoàn giá tốt`
+- `đặt vé đoàn công ty`
+- `vé máy bay hội nghị`
+- `vé công tác`
+- `vé team building/company trip`
+- `vé nội địa/quốc tế`
+- `vé Vietnam Airlines/Vietjet/Bamboo`
+- `đặt vé cho gia đình`
+- `vé đi [điểm đến]`
+- `vé máy bay tháng [X]`
+- `đổi/hoàn vé`
+- `hành lý`
+- `check-in`
+- `vé + xe đưa đón sân bay`
+
+#### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
+- ❌ `tuyển dụng`
+- ❌ `việc làm`
+- ❌ `tiếp viên`
+- ❌ `phi công`
+- ❌ `học hàng không`
+- ❌ `mô hình máy bay`
+- ❌ `game`
+- ❌ `hình nền`
+- ❌ `tai nạn máy bay`
+- ❌ `tin tức hàng không không có nhu cầu mua`
+- ❌ `vé miễn phí`
+- ❌ `mã giảm giá ảo`
+- ❌ `review hãng thuần thông tin không có intent đặt vé`
+
+#### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
+> HOT
+
+> Có nhu cầu rõ + thời gian gần/cụ thể: “cần vé”, “tìm vé”, “book vé”, “đặt vé”, “xin giá vé”, “check vé giúp”, “cần vé gấp”, “bay ngày…”, “đi ngày… về ngày…”, “tuần này”, “cuối tuần này”, “ngày mai”, “mai bay”, “tháng này”, “còn vé không”, “vé đoàn”, “đoàn … người”, “công ty … người”, “cần vé cho … người”, “xin báo giá đoàn”, “cần xuất hóa đơn”, “cần giữ chỗ”, “cần đổi vé”, “cần hỗ trợ gấp”, “có chuyến nào giờ…”, “từ [điểm đi] đi [điểm đến] ngày…”
+
+> Warm:
+
+> có ý định đi nhưng thời gian còn xa/chưa chốt: “dự định đi”, “định đi”, “tính đi”, “đang tham khảo vé”, “xin kinh nghiệm đặt vé”, “vé tháng … khoảng bao nhiêu”, “tháng … đi đâu”, “cuối năm đi…”, “Tết đi…”, “hè đi…”, “sắp tới công ty đi…”, “chuẩn bị tổ chức company trip”, “đang lên kế hoạch cho đoàn”, “đoàn khoảng … người”, “nên đặt vé trước bao lâu”, “hãng nào ổn”, “bay giờ nào hợp lý”, “có ai nhận vé đoàn không”, “xin đại lý uy tín”, “tham khảo giá vé [điểm đến]”
+
+#### 📌 7. Lưu ý quan trọng khi quét & tư vấn
+Ưu tiên lead đoàn. Không định vị HBA bằng “rẻ nhất”. Trục bán chính: uy tín – tư vấn hành trình – quản lý booking đoàn – hỗ trợ phát sinh – xuất vé/hóa đơn – giá phù hợp. Cross-sell tự nhiên với xe đưa đón sân bay HBBus, nhưng sản phẩm chính vẫn là vé máy bay. Với lead đoàn nên thu tối thiểu: số người + điểm đi/đến + ngày dự kiến + yêu cầu giờ bay/timeline + nhu cầu hóa đơn.
+
+---
+
