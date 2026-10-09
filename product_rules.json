@@ -1,6 +1,8 @@
 [
   {
+    "stt": 1,
     "service": "Sự kiện",
+    "staff": "Bích Hiển",
     "target": "- Khách hàng cao cấp 70%: Tập đoàn, doanh nghiệp lớn, FDI, ngân hàng, thương hiệu premium, tổ chức lớn, agency, trường học lớn, bệnh viện, hiệp hội, khách sạn/resort, chủ đầu tư. Người tìm/đề xuất thường là Marketing, Event, HR, Admin, Communication, Project Coordinator, Procurement; cấp duyệt gồm Manager/Director/Head/GM/CEO/Ban quản lý dự án. Ngân sách trọng tâm từ 150 triệu đồng trở lên.\n\n- Khách hàng giá hợp lý 30%: SME, showroom, shop, café, nhà hàng, trung tâm giáo dục, CLB, nhóm cộng đồng, doanh nghiệp nhỏ; Founder/Marketing/HR/Admin trực tiếp phụ trách. Ngân sách thường dưới 20 triệu – 150 triệu đồng.",
     "needs": "- Khách cao cấp: Cần agency có thể nhận trọn gói, một đầu mối; tư vấn concept/venue; lập proposal; production; sân khấu, âm thanh ánh sáng, LED; nhân sự; VIP/guest experience; tiệc; media; timeline; rehearsal; quản lý vendor; phương án backup; xử lý chương trình quy mô lớn/phức tạp/nhiều stakeholder; deadline ngắn. \n- Khách quy mô nhỏ: Có loại sự kiện + số khách + khoảng ngân sách và muốn được đề xuất phương án/package phù hợp; cần giá/hạng mục rõ ràng; setup nhanh, đẹp, đúng giờ; ít phát sinh; không phải làm việc với nhiều vendor. - Trigger cần bắt: YEP, Gala, Anniversary, Product Launch, khai trương, khánh thành, khởi công/động thổ, tri ân, conference, Family Day, Sport Day, Festival, Kick-off, workshop, activation, roadshow, sự kiện nội bộ.",
     "main": [
@@ -71,13 +73,19 @@
       "ngành tổ chức sự kiện",
       "CV event",
       "phần mềm quản lý sự kiện",
-      "game tổ chức sự kiện."
+      "game tổ chức sự kiện.",
+      "sảnh sự kiện",
+      "địa điểm tổ chức sự kiện",
+      "áo quần sự kiện",
+      "tìm địa điểm tổ chức"
     ],
     "hotWarm": "HOT: Cần gấp, cần ngay, tìm gấp\n\nWARM: Cần báo giá, cần tư vấn",
     "notes": "Ưu tiên lead doanh nghiệp lớn/B2B khoảng 70%, khách quy mô nhỏ khoảng 30%. Không lọc lead chỉ theo tên sự kiện; cần đọc đồng thời Loại sự kiện → Quy mô → Ngân sách → Quy mô khách → Insight → mức độ phức tạp → nhu cầu vận hành. Ưu tiên lead cần full service/một đầu mối, có production, vận hành, khách VIP, nhiều vendor/stakeholder hoặc cần hệ sinh thái Event + Tour + Xe/Vé + Tiệc. "
   },
   {
+    "stt": 2,
     "service": "Thiết bị",
+    "staff": "Phương Dung",
     "target": "- Doanh nghiệp/B2B 80%: DN lớn, DN vừa & nhỏ, tổ chức có nhu cầu thuê thiết bị cho hội nghị, hội thảo, lễ ký kết, khai trương, sự kiện nội bộ, YEP…\n\n- Khách nhỏ lẻ 20%: cửa hàng, đơn vị nhỏ, cá nhân có nhu cầu thuê thiết bị cho chương trình quy mô nhỏ",
     "needs": "Thuê/cung cấp âm thanh, ánh sáng, màn hình LED, sân khấu và thiết bị sự kiện; cần setup thiết bị cho sự kiện; cần cấu hình thiết bị phù hợp quy mô/venue; cần setup gấp trong 24h; cần kỹ thuật vận hành tại sự kiện; cần giải pháp thiết bị đồng bộ; cần thiết bị cho Trung Thu, 20/10, Halloween, Giáng sinh, YEP; cần báo giá/đặt lịch thuê thiết bị.",
     "main": [
@@ -145,13 +153,18 @@
       "loa gia đình",
       "loa bluetooth",
       "thiết bị phòng thu",
-      "thiết bị cá nhân"
+      "thiết bị cá nhân",
+      "tìm nhân sự",
+      "soundman",
+      "nhân viên"
     ],
     "hotWarm": "HOT: Khách có sự kiện/chương trình cụ thể + thời gian tổ chức rõ + địa điểm/khu vực rõ + đang cần thuê thiết bị/báo giá/tư vấn cấu hình hoặc cần setup gấp.\n\nWARM: Có nhu cầu tổ chức sự kiện hoặc quan tâm thuê thiết bị nhưng chưa chốt thời gian, địa điểm, cấu hình/quy mô hoặc đang tham khảo phương án và báo giá.",
     "notes": "Ưu tiên lead doanh nghiệp (80%), khách nhỏ lẻ 20%. Không cạnh tranh bằng giá; ưu tiên truyền thông và đánh giá lead dựa trên kinh nghiệm, uy tín, đội ngũ kỹ thuật, khả năng setup nhanh và hệ sinh thái thiết bị đồng bộ. Phân loại nhu cầu theo quy mô sự kiện: doanh nghiệp lớn - doanh nghiệp vừa & nhỏ - khách nhỏ lẻ. Khi tiếp nhận lead cần làm rõ: loại chương trình, thời gian, địa điểm, quy mô/số khách, hạng mục thiết bị cần thuê và yêu cầu kỹ thuật. Quy trình phục vụ gồm: tư vấn trước chương trình - khảo sát & đề xuất cấu hình - setup & test/soundcheck - kỹ thuật trực vận hành - phương án backup - tháo dỡ sau chương trình."
   },
   {
+    "stt": 3,
     "service": "Media",
+    "staff": "Phương Dung",
     "target": "- Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ, tổ chức, đơn vị tổ chức hội nghị - hội thảo, training, tọa đàm, khai trương, sự kiện nội bộ, MICE… có nhu cầu ghi hình và sản xuất tư liệu truyền thông.\n\n- Khách nhỏ lẻ 20%: đơn vị/cá nhân có nhu cầu quay, chụp, livestream chương trình quy mô nhỏ.",
     "needs": "Chụp ảnh sự kiện; quay video sự kiện; quay + chụp; quay - chụp - dựng; quay recap/highlight; livestream sự kiện; quay chụp + livestream; thuê thiết bị quay chụp; thuê nhân sự quay/chụp; cần ekip Media sự kiện; cần ghi hình toàn cảnh và khoảnh khắc quan trọng; cần tư liệu phục vụ truyền thông, báo cáo, lưu trữ sau sự kiện; cần đặt lịch Media trước sự kiện.",
     "main": [
@@ -213,13 +226,17 @@
       "mua máy ảnh",
       "bán máy ảnh",
       "sửa máy ảnh",
-      "review máy ảnh"
+      "review máy ảnh",
+      "tìm nhân sự",
+      "nhân viên"
     ],
     "hotWarm": "HOT: Đã có chương trình cụ thể + ngày/giờ tổ chức + địa điểm/khu vực + nhu cầu Media tương đối rõ (quay/chụp/dựng/livestream, số camera…) và đang cần báo giá, tư vấn hoặc đặt ekip. Đặc biệt ưu tiên lead có lịch tổ chức gần hoặc yêu cầu giữ lịch ekip.\n\nWARM: Đã có nhu cầu Media cho sự kiện nhưng chưa chốt một hoặc nhiều yếu tố như thời gian, địa điểm, quy mô, hạng mục, số camera/gói dịch vụ; đang tham khảo phương án hoặc báo giá.",
     "notes": "Ưu tiên B2B 80% - khách nhỏ lẻ 20%. Media sự kiện tập trung quay - chụp - dựng - livestream/hybrid - cho thuê thiết bị - nhân sự quay chụp. Khi tiếp nhận lead cần làm rõ: loại chương trình - thời gian - địa điểm - quy mô - mục đích sử dụng tư liệu - hạng mục cần thực hiện - yêu cầu đầu ra - nhu cầu livestream/số camera. Ekip cần nghiên cứu kịch bản/flow chương trình để chủ động nhân sự, góc máy và thiết bị, bảo đảm ghi được các khoảnh khắc quan trọng. Content phải chống trùng theo góc khai thác/insight/pain point/key message/CTA/visual/bằng chứng."
   },
   {
+    "stt": 4,
     "service": "Thi công",
+    "staff": "Phương Dung",
     "target": "- Doanh nghiệp/B2B 80%: doanh nghiệp lớn, DN vừa & nhỏ; thương hiệu/nhãn hàng; đơn vị tham gia triển lãm, hội chợ, activation; tổ chức có nhu cầu thi công không gian cho hội nghị, lễ ký kết, khai trương, khởi công - động thổ - khánh thành, sự kiện nội bộ…\n\n- Khách nhỏ lẻ 20%: cửa hàng, đơn vị kinh doanh nhỏ hoặc cá nhân có nhu cầu thi công booth, backdrop, sân khấu và hạng mục sự kiện quy mô nhỏ.",
     "needs": "Thi công gian hàng/booth triển lãm; booth activation; thi công sân khấu; sân khấu concept riêng; backdrop/check-in/photobooth; in ấn - sản xuất hạng mục sự kiện; POSM; standee, bảng welcome, bảng chỉ dẫn, hashtag, formex, decal, banner treo; thi công không gian sự kiện; thiết kế 2D/3D đi kèm thi công; thi công trọn gói; thi công lễ khởi công - động thổ - khánh thành; cần khảo sát, thiết kế, báo giá hoặc triển khai thi công theo deadline.",
     "main": [
@@ -282,13 +299,17 @@
       "tự làm/DIY",
       "bản vẽ xây dựng",
       "thiết kế nhà",
-      "kiến trúc nhà ở"
+      "kiến trúc nhà ở",
+      "tìm nhân sự",
+      "nhân viên"
     ],
     "hotWarm": "HOT: Đã có chương trình/dự án cụ thể + thời gian hoàn thiện/diễn ra + địa điểm + hạng mục cần thi công tương đối rõ và đang yêu cầu khảo sát, thiết kế, báo giá hoặc triển khai. Lead có deadline gần, đã có mặt bằng/kích thước, brief/concept hoặc yêu cầu sản xuất cụ thể được ưu tiên xử lý.\n\nWARM: Đã phát sinh nhu cầu thi công nhưng chưa chốt một hoặc nhiều yếu tố như thời gian, địa điểm, kích thước, concept, hạng mục hoặc ngân sách; đang tham khảo ý tưởng, thiết kế/phương án và báo giá.",
     "notes": "Ưu tiên B2B 80% - khách nhỏ lẻ 20%. Không chỉ bắt lead theo từ khóa “thi công sự kiện”, cần nhận diện nhu cầu theo từng hạng mục: gian hàng - triển lãm - booth activation - sân khấu - backdrop/check-in - POSM - in ấn/sản xuất. Khi tiếp nhận lead cần làm rõ: loại chương trình - thời gian/deadline - địa điểm - diện tích/kích thước - hạng mục cần thi công - concept/nhận diện - yêu cầu thiết kế 2D/3D - ngân sách dự kiến. Thi công cần đồng bộ từ thiết kế, sản xuất đến lắp đặt tại địa điểm và bảo đảm tiến độ. Content áp dụng chống trùng riêng cho Thi công: khác góc khai thác, insight/pain point, key message, CTA, visual và dữ liệu/bằng chứng."
   },
   {
+    "stt": 5,
     "service": "Hội nghị MICE",
+    "staff": "Nhật Chung",
     "target": "NHÓM 1– Doanh nghiệp/tổ chức tư nhân 60%: tập đoàn, doanh nghiệp lớn/vừa, FDI, ngân hàng, dược – y tế, công nghệ, sản xuất, tài chính, giáo dục... Người đọc/tìm dịch vụ: Marketing/Branding, Communication/PR, Event, HR/Admin, Office Manager, thư ký/trợ lý, Project Coordinator, Procurement và người được giao trực tiếp tổ chức hội nghị. \n\nNHÓM 2 – Cơ quan/tổ chức chuyên môn 40%: Bộ/Ban/Ngành, cơ quan Nhà nước, hiệp hội, bệnh viện, trường đại học, viện nghiên cứu, tổ chức quốc tế/NGO, tổ chức nghề nghiệp. Người đọc/tìm dịch vụ: Ban Tổ chức/Ban Thư ký, Hành chính/Tổng hợp, Hợp tác quốc tế, Truyền thông/Đối ngoại, Phòng Đào tạo/Quản lý khoa học, cán bộ phụ trách hội nghị.",
     "needs": "Nhóm 1: cần đơn vị phản hồi nhanh, proposal/báo giá rõ, tối ưu ngân sách, ít phát sinh, một đầu mối xử lý toàn bộ; tổ chức hội nghị khách hàng, đối tác, sales conference, kick-off, tổng kết, đào tạo, đại hội cổ đông; cần venue, concept/thiết kế, check-in, VIP, hybrid, phiên dịch, logistics; deadline gấp và cần giảm tải điều phối. \n\nNhóm 2: cần uy tín, trang trọng, quy trình chuẩn; hồ sơ/giấy phép khi áp dụng; phối hợp cơ quan Nhà nước/Chính phủ; protocol, VIP/diễn giả, hội nghị quốc tế, hội nghị khoa học/Y khoa, nhiều stakeholder, nhiều điểm cầu; yêu cầu độ chính xác, backup, bảo mật và kinh nghiệm tương tự.",
     "main": [
@@ -375,7 +396,9 @@
     "notes": "Ưu tiên lead B2B và tổ chức chuyên môn, không định vị bằng giá rẻ. Bán bằng: chuyên nghiệp có proof + giấy phép/thủ tục + Government coordination + protocol/VIP + full service + một đầu mối + thiết kế sáng tạo + case thực tế + backup/risk management. Không tách content bán riêng AV/Thiết bị, Tour/HBT, HBA/HBBus; các dịch vụ này chỉ là hạng mục bổ trợ của giải pháp hội nghị trọn gói. Case phải thể hiện: bài toán → giải pháp → triển khai → proof → kết quả → CTA. Với từ khóa “giấy phép hội nghị quốc tế”, phải xác định đúng trường hợp pháp lý; không mặc định mọi hội nghị có người nước ngoài đều phải xin phép."
   },
   {
+    "stt": 6,
     "service": "Tiệc",
+    "staff": "Nhật Chung",
     "target": "- Doanh nghiệp/B2B: Tập đoàn, doanh nghiệp vừa & lớn, FDI, ngân hàng, bảo hiểm, dược – y tế, công nghệ, bất động sản, FMCG, hiệp hội; bộ phận Marketing, Event, PR, HR, Admin, Procurement. - Cơ quan/Tổ chức: Bộ ban ngành, trường đại học, viện nghiên cứu, bệnh viện, NGO/IGO, ban tổ chức hội nghị – hội thảo. \n\n- Agency/Event Organizer: cần nhà cung cấp Tea Break có khả năng phối hợp theo concept và timeline sự kiện. - Điều kiện bắt buộc: chỉ nhận chương trình từ 50 khách trở lên. Không định vị cho tiệc cá nhân hoặc đơn nhỏ.",
     "needs": "1. Thực đơn ngon & phù hợp: khách cần menu chất lượng, hài hòa, phù hợp khách mời và tính chất chương trình. \n\n2. Setup theo concept: cần bàn Tea Break đồng bộ màu sắc, chủ đề, brand guideline hoặc concept tổng thể của sự kiện. \n\n3. Hình ảnh nhân sự chuyên nghiệp: nhân viên phục vụ nhiệt tình, tác phong chỉn chu, trang phục đẹp và phù hợp chương trình. \n\n4. Tư vấn đồng bộ trọn gói: khách có thể chưa có venue/concept hoàn chỉnh, cần đơn vị hỗ trợ tìm hoặc đề xuất địa điểm, gợi ý concept trang trí, bố trí không gian, menu, nhân sự và vận hành. \n\n5. Sự chuyên nghiệp & đẳng cấp: Tea Break phải góp phần nâng hình ảnh doanh nghiệp và trải nghiệm khách mời chứ không chỉ là giờ ăn nhẹ.",
     "main": [
@@ -462,7 +485,9 @@
     "notes": "Ưu tiên lead B2B có nhu cầu “giải pháp Tea Break”, không chạy theo lead mua đồ ăn lẻ. Khi Sale qualify lead cần hỏi tối thiểu: (1) số khách – phải ≥50; (2) ngày/khung giờ; (3) địa điểm hoặc nhu cầu tìm venue; (4) loại chương trình; (5) đối tượng khách mời; (6) ngân sách dự kiến; (7) Standard/Luxury hoặc mức trải nghiệm mong muốn; (8) yêu cầu concept/brand color; (9) nhân sự phục vụ/trang phục; (10) các hạng mục cần tư vấn đồng bộ. Điểm bán chính: thực đơn ngon + setup sáng tạo theo concept + đội ngũ phục vụ chuyên nghiệp + tư vấn địa điểm/concept + khả năng triển khai đồng bộ với hội nghị/sự kiện. Không định vị bằng “bánh ngon – trà ngon – giá rẻ”; không tập trung content vào từng món. Thị trường đại trà hiện có nhiều nhà cung cấp nhận từ số lượng nhỏ và cạnh tranh mạnh bằng giá, vì vậy The HBG nên tránh cuộc chơi đó và giữ phân khúc B2B ≥50 khách, chuyên nghiệp – đẳng cấp – concept-driven – one-stop consulting."
   },
   {
+    "stt": 7,
     "service": "Tour Inbound",
+    "staff": "Hà Đỗ",
     "target": "70% B2B/đoàn giá trị cao: Overseas Travel Agent, Tour Operator, Wholesaler, Group Travel Specialist, Luxury Travel Company, Incentive House, Event Agency, doanh nghiệp/tổ chức quốc tế, Product Manager, Contracting Manager, Destination Manager, Operations Manager. \n\n30% B2C: khách quốc tế cá nhân, cặp đôi, gia đình, private group đang lên kế hoạch đi Việt Nam.",
     "needs": "B2B: tìm Vietnam DMC/local operator/ground handler; gửi RFQ; xin net rate; xin quotation; sample itinerary; sản phẩm FIT/Group; đoàn Việt Nam; trip/Incentive; cần land arrangement; tìm partner, vendor tại Việt Nam; cần báo giá khách sạn/xe/guide/tour theo gói. \n\nB2C: planning Vietnam trip; cần itinerary; private/custom tour; family/group Vietnam; tour Bắc/Trung/Nam/xuyên Việt; Vietnam; local guide; private car; airport transfer; day tour; cần local travel agency/operator.",
     "main": [
@@ -530,7 +555,9 @@
     "notes": "Mỗi lead phải xác định tối thiểu B2B hay B2C + Source Market + tuyến Việt Nam. Với B2B cần bắt thêm: partner type, chức danh/người liên hệ, RFQ, hotel category, guide language, service scope. Với B2C cần bắt: nationality/source market, dates, pax, duration, route, hotel expectation, private/group. Nếu group dùng ngôn ngữ địa phương, đặt keyword bản địa vào cột “Từ khóa riêng của group”, thay vì nhồi mọi ngôn ngữ vào cấu hình master."
   },
   {
+    "stt": 8,
     "service": "Tour Outbound",
+    "staff": "Hà Đỗ",
     "target": "70%: khách giá trị cao: doanh nghiệp, tập đoàn, HR/Admin, Procurement, Marketing, Sales, Executive Assistant, người phụ trách Company Trip/Incentive/Dealer Trip, người tổ chức đoàn/nhóm riêng, gia đình nhiều người.\n\n30%: cá nhân, cặp đôi, gia đình, nhóm bạn nhỏ đang chủ động tìm tour nước ngoài.",
     "needs": "Tìm/cần đơn vị tổ chức tour nước ngoài; xin chương trình/báo giá; tìm tour theo điểm đến; tour đoàn/công ty; tour riêng/custom; tour ghép; Company Trip/Incentive/Dealer Trip; so sánh tour; hỏi công ty du lịch uy tín; cần tư vấn lịch trình, visa, chuyến bay, khách sạn trong bối cảnh chuẩn bị chuyến đi; gia đình/nhóm cần phương án phù hợp trẻ em/người lớn tuổi; đoàn nhiều điểm khởi hành.",
     "main": [
@@ -598,11 +625,14 @@
     "notes": "Ưu tiên 70% đoàn/doanh nghiệp/người tổ chức. Không yêu cầu bài phải có chữ “tour”: một bài “Công ty 45 người muốn đi Nhật tháng 11, cần bên lên phương án” phải được nhận là HOT. Cần extract riêng: điểm đến, ngày đi, số khách, điểm khởi hành, loại tour, ngân sách, nhu cầu visa, yêu cầu đặc biệt và contact công khai."
   },
   {
+    "stt": 9,
     "service": "Tour Nội địa",
+    "staff": "Thùy Anh",
     "target": "80% – khách đoàn lớn: doanh nghiệp, công ty, tập đoàn, hiệp hội, hội nhóm lớn, hội đồng hương, nhóm họp lớp, đoàn xã/phường, liên hiệp phụ nữ; hàng chục đến hàng trăm người; nam và nữ 25–44 tuổi; tổng chi tiêu mục tiêu ≥30 triệu đồng. \n\n20% – khách lẻ/nhóm nhỏ: khách tour ghép, cặp đôi, nhóm bạn, gia đình nhỏ 2–4 người; chủ yếu nữ 25–44 tuổi; nhu cầu đi ngắn ngày/cuối tuần; tổng chi tiêu mục tiêu ≤20 triệu đồng.",
     "needs": "Khách đoàn: tìm đơn vị tổ chức tour cho đoàn đông; xin báo giá theo số người; cần thiết kế lịch trình riêng; tour khởi hành từ địa phương cụ thể; cần đồng bộ xe–ăn–ở–HDV–bảo hiểm; cần quản lý timeline, chia xe/phòng/nhóm; cần hợp đồng, hóa đơn, chứng từ; cần phương án xử lý phát sinh; có thể cần kết hợp Team Building/Gala Dinner. \n\nKhách lẻ: tìm tour trọn gói, tour ghép, giá và lịch trình cụ thể; tour cuối tuần/ngắn ngày; tour đúng mùa; giảm thời gian tự đặt xe, phòng, vé và điểm tham quan.",
     "main": [
-      "Khách đoàn: \ntổ chức tour du lịch cho công ty",
+      "Khách đoàn:",
+      "tổ chức tour du lịch cho công ty",
       "tour du lịch công ty",
       "tour đoàn công ty",
       "tour khách đoàn",
@@ -612,7 +642,9 @@
       "tour đoàn khởi hành từ [điểm xuất phát]",
       "tour [điểm đến] kết hợp Team Building",
       "tour [điểm đến] kết hợp Gala Dinner",
-      "tour [điểm đến] Team Building Gala Dinner [thời lượng]\n\nKhách lẻ: \ntour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]",
+      "tour [điểm đến] Team Building Gala Dinner [thời lượng]",
+      "Khách lẻ:",
+      "tour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]",
       "tour [điểm xuất phát] đi [điểm đến] [thời lượng]",
       "tour [điểm đến] trọn gói",
       "tour ghép [điểm đến]",
@@ -621,7 +653,8 @@
       "tour [điểm đến] khởi hành tháng [x]"
     ],
     "expanded": [
-      "Khách đoàn:\nCần tìm công ty tổ chức tour cho đoàn 50 người”",
+      "Khách đoàn:",
+      "Cần tìm công ty tổ chức tour cho đoàn 50 người”",
       "“xin báo giá tour Đà Nẵng 3N2Đ cho công ty”",
       "“đoàn 80 người đi Hạ Long cần lịch trình và khách sạn”",
       "“công ty cần đi nghỉ mát kết hợp Team Building”",
@@ -630,7 +663,9 @@
       "“tour đoàn có hóa đơn VAT”",
       "“tour công ty 2N1Đ gần Hà Nội”",
       "“đoàn họp lớp 40 người muốn đi [điểm đến]”",
-      "“xin báo giá trọn gói xe, phòng, ăn và hướng dẫn viên”\n\nKhách lẻ: \n“Đi [điểm đến] 3N2Đ từ Hà Nội có tour nào?”",
+      "“xin báo giá trọn gói xe, phòng, ăn và hướng dẫn viên”",
+      "Khách lẻ:",
+      "“Đi [điểm đến] 3N2Đ từ Hà Nội có tour nào?”",
       "“xin giá tour Phú Quốc cho 4 người”",
       "“tour Đà Nẵng 4N3Đ bao gồm vé máy bay”",
       "“tour Sapa cuối tuần”",
@@ -640,7 +675,8 @@
       "“tour [điểm đến] dịp [ngày lễ còn hiệu lực]”"
     ],
     "excluded": [
-      "Khách đoàn: \nTeam Building độc lập",
+      "Khách đoàn:",
+      "Team Building độc lập",
       "Gala Dinner độc lập",
       "tổ chức sự kiện thuần túy",
       "hội nghị/hội thảo không có tour",
@@ -652,7 +688,9 @@
       "visa",
       "tuyển dụng",
       "khóa học",
-      "mẫu kịch bản miễn phí không có nhu cầu mua tour, tìm địa điểm tổ chức teambuilding\n\nKhách lẻ:\nTour nước ngoài",
+      "mẫu kịch bản miễn phí không có nhu cầu mua tour, tìm địa điểm tổ chức teambuilding",
+      "Khách lẻ:",
+      "Tour nước ngoài",
       "outbound",
       "visa",
       "du học",
@@ -669,7 +707,9 @@
     "notes": "Không gộp khách khởi hành từ Hà Nội, Đà Nẵng và TP.HCM vào cùng một phương án giá. Chỉ tiếp nhận sản phẩm có điểm xuất phát và toàn bộ điểm đến thuộc Việt Nam. Phải hỏi tối thiểu: (1) Điểm xuất phát; (2) Điểm đến mong muốn; (3) Ngày hoặc khoảng thời gian đi; (4) Thời lượng; (5) Số người; (6) Tour thuần hay kết hợp Team Building/Gala Dinner; (7) Mức ngân sách hoặc tiêu chuẩn dịch vụ; (8) Thông tin liên hệ. Với khách đoàn cần hỏi thêm: cơ cấu trẻ em/người lớn tuổi/khách nước ngoài nếu có; tiêu chuẩn khách sạn; phương tiện; nhu cầu hóa đơn, chứng từ; chia xe/phòng; người quyết định; hạn nhận báo giá và hạn chốt. Team Building/Gala Dinner chỉ là hạng mục kết hợp trong tour, không tách thành lead dịch vụ độc lập. Không tự đánh HOT chỉ vì khách tìm “tour Sapa”, “tour Phú Quốc” hoặc để lại tương tác; phải có tín hiệu mua và dữ liệu chuyến đi. Nếu khách đã yêu cầu báo giá nhưng thiếu điểm xuất phát thì vẫn để WARM cho đến khi xác minh."
   },
   {
+    "stt": 10,
     "service": "Xe",
+    "staff": "Thùy Anh",
     "target": "- Khách đoàn 70%: \nDoanh nghiệp, cơ quan, tổ chức, hiệp hội, đoàn thể, hội nhóm, họp lớp; người phụ trách thường là HR, Admin, Event, hậu cần, trưởng đoàn. Quy mô từ hàng chục đến hàng trăm người. \n\n- Khách lẻ 30%: \nCá nhân, gia đình, nhóm bạn nhỏ; ưu tiên người có nhu cầu thuê xe riêng cho chuyến đi ngắn, du lịch, đưa đón người thân.",
     "needs": "Khách đoàn: cần xe đúng giờ, đủ chỗ, phù hợp quy mô đoàn; điều phối nhiều xe/điểm đón; bám timeline hội nghị, sự kiện, du lịch; tài xế kinh nghiệm; xe chất lượng; hóa đơn/chứng từ rõ ràng. \n\nKhách lẻ: quan tâm giá, loại xe phù hợp, an toàn, tài xế, chi phí phát sinh, đón đúng giờ và hành trình thuận tiện.",
     "main": [
@@ -719,7 +759,9 @@
     "notes": "Ưu tiên khách đoàn 70%, khách lẻ 30%. Không cạnh tranh bằng “rẻ nhất”; nhấn mạnh đúng giờ – an toàn – chuyên nghiệp – chất lượng – năng lực phục vụ đoàn lớn. Không nhận diện “thuê xe đưa đón nhân viên cố định theo tháng” là nhóm dịch vụ trọng tâm. Giá, xe và khả năng nhận chuyến phải kiểm tra theo từng booking; không tự cam kết khi chưa có xác nhận điều hành."
   },
   {
+    "stt": 11,
     "service": "Vé",
+    "staff": "Thùy Anh",
     "target": "Khách đoàn ~70%: Doanh nghiệp, công ty, tập đoàn, cơ quan, tổ chức, hiệp hội, hội nhóm/đoàn thể; người trực tiếp tìm & đặt thường là HCNS, HR, trợ lý, procurement, kế toán, hậu cần, trưởng đoàn/BTC. Quy mô hàng chục–hàng trăm người, giá trị booking cao. \n\nKhách lẻ ~30%: Cá nhân, gia đình nhỏ, nhóm bạn <5 người; chủ yếu người trực tiếp tìm vé/so sánh giá, quan tâm cả giá và độ uy tín của đại lý.",
     "needs": "Khách đoàn: cần đủ chỗ cho đoàn; giờ bay phù hợp timeline; quản lý nhiều hành khách; xử lý danh sách thay đổi/sai tên; hoàn–đổi; hành lý; hóa đơn/chứng từ; hỗ trợ nhanh khi phát sinh; có một đầu mối theo sát booking. \n\nKhách lẻ: cần giá vé cụ thể; giờ bay/hãng phù hợp; tổng chi phí & hành lý; điều kiện hoàn đổi; đại lý có uy tín không; có người hỗ trợ khi chuyến bay thay đổi.",
     "main": [

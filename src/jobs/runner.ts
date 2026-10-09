@@ -1,9 +1,9 @@
 import crypto from 'node:crypto';
 import { db } from '../db/index.js';
 import { FacebookScanner } from '../browser/scanner.js';
-import { loadGroups, loadRules, loadLeadOutput, markGroup, writeLead } from '../sheets/repository.js';
+import { loadGroups, loadRules, loadLeadOutput, markGroup, writeLead, writeLeads, formatRawDataRow } from '../sheets/repository.js';
 import { classify } from '../ai/classifier.js';
-import { canonicalFacebookUrl, contactKey, fingerprint, hash } from '../utils/normalize.js';
+import { canonicalFacebookUrl, contactKey, fingerprint, hash, toOriginalPostOnly } from '../utils/normalize.js';
 import { decideDuplicate } from '../dedup/engine.js';
 import type { Candidate } from '../types/index.js';
 import { env } from '../config/env.js';
@@ -61,54 +61,105 @@ export async function runScan(opts: { stt?: number[]; priority?: string[]; limit
       console.log(`\n[${i + 1}/${groups.length}] 🔍 Đang quét nhóm [STT: ${g.stt}] ${g.name}...`);
       try {
         const r = await scanner.scanGroup(g);
-        console.log(`  └─ Cào được ${r.posts.length} bài viết. Đang phân loại AI và lọc trùng...`);
+        console.log(`  └─ Cào được ${r.posts.length} bài viết. Đang kiểm tra trùng lặp...`);
         let leads = 0;
         let skippedDups = 0;
 
+        // 1. Lọc trước các bài đã biết trong CSDL / Sheet -> 0 token, 0 thời gian
+        const postsToClassify: { post: typeof r.posts[0]; postKey: string }[] = [];
         for (const post of r.posts) {
           const postKey = hash(canonicalFacebookUrl(post.permalink || `${g.stt}|${post.author}|${post.text}`));
-
-          // BỎ QUA TRƯỚC KHI GỌI AI: Nếu bài viết đã có trong DB hoặc Sheet -> 0 Token tiêu tốn!
           if (existingKeys.has(postKey) || batch.some(b => b.canonicalKey === postKey)) {
             skippedDups++;
-            continue;
+          } else {
+            postsToClassify.push({ post, postKey });
           }
+        }
 
-          // Chỉ gọi AI phân loại đối với các bài viết MỚI chưa từng xuất hiện
-          const cl = await classify(post, rules);
+        // 2. TỐI ƯU ĐỘT PHÁ: Phân loại AI song song (Parallel Classification)
+        let classifiedItems: { post: typeof r.posts[0]; postKey: string; cl: any }[] = [];
+        if (postsToClassify.length > 0) {
+          console.log(`  └─ Phân loại đồng thời ${postsToClassify.length} bài viết mới bằng AI (tốc độ cao)...`);
+          classifiedItems = await Promise.all(
+            postsToClassify.map(async (item) => {
+              try {
+                const cl = await classify(item.post, rules);
+                return { ...item, cl };
+              } catch (err: any) {
+                console.error(`  ⚠️ Lỗi phân loại bài của ${item.post.author}:`, err.message);
+                return { ...item, cl: null };
+              }
+            })
+          );
+        }
+
+        // 3. Xử lý kết quả phân loại & lưu CSDL
+        const groupNewLeads: Candidate[] = [];
+
+        for (const item of classifiedItems) {
+          const { post, postKey, cl } = item;
+          if (!cl) continue;
+
+          // Chuẩn hóa CHỈ DỮ LIỆU BÀI ĐĂNG GỐC trước khi lưu trữ
+          const originalPost = toOriginalPostOnly(post);
 
           // Nếu bài viết không phải nhu cầu mua (quảng cáo, bán hàng, spam, etc.)
           if (!cl.buyerIntent || cl.decision === 'REJECT') {
-            // Lưu lại hash bài viết bị từ chối vào SQLite để các lần quét sau KHÔNG TỐN TOKEN phân loại lại!
             db.prepare(
               'INSERT INTO candidates(run_id,group_stt,canonical_key,contact_key,need_fingerprint,payload_json,decision,matched_existing) VALUES(?,?,?,?,?,?,?,?)'
-            ).run(id, g.stt, postKey, '', '', JSON.stringify({ author: post.author, permalink: post.permalink }), 'REJECT', '');
+            ).run(id, g.stt, postKey, '', '', JSON.stringify({ author: originalPost.author, permalink: originalPost.postUrl }), 'REJECT', '');
             existingKeys.add(postKey);
             continue;
           }
 
           const c: Candidate = {
-            ...post,
+            groupStt: post.groupStt,
+            groupName: post.groupName,
+            canonicalGroupUrl: post.canonicalGroupUrl,
+            author: originalPost.author,
+            authorUrl: originalPost.authorUrl,
+            postedLabel: originalPost.postedLabel,
+            postedAt: post.postedAt,
+            permalink: originalPost.postUrl || post.permalink,
+            postId: originalPost.postId,
+            text: originalPost.content,
+            originalBodyText: originalPost.content,
+            contact: originalPost.contact || cl.contact || undefined,
+            images: originalPost.attachments || [],
+            isUnclearOrObscured: originalPost.isUnclearOrObscured,
             classification: cl,
             canonicalKey: postKey,
-            contactKey: contactKey(post.contact || ''),
-            needFingerprint: fingerprint(post.author, cl.services, cl.needSummary)
+            contactKey: contactKey(originalPost.contact || cl.contact || ''),
+            needFingerprint: fingerprint(originalPost.author, cl.services, cl.needSummary)
           };
 
           const d = decideDuplicate(c, history, batch);
-          c.classification.decision = d.decision;
+          
+          if (cl.decision === 'HOLD') {
+            c.classification.decision = d.decision === 'DUPLICATE' ? 'DUPLICATE' : 'HOLD';
+          } else {
+            c.classification.decision = d.decision;
+          }
 
-          if (d.decision === 'NEW') {
+          if (c.classification.decision === 'NEW') {
             batch.push(c);
             existingKeys.add(postKey);
             leads++;
+            groupNewLeads.push(c);
             console.log(`  ⭐ Lead MỚI (${cl.temperature}): ${c.author} - ${cl.services.join(', ')} | "${cl.needSummary.slice(0, 60)}..."`);
-            await writeLead(c, id);
+          } else if (c.classification.decision === 'HOLD') {
+            existingKeys.add(postKey);
+            console.log(`  ⏸️ Bài viết diện RÀ SOÁT / HOLD: ${c.author} | "${cl.needSummary.slice(0, 60)}..."`);
           }
 
           db.prepare(
             'INSERT INTO candidates(run_id,group_stt,canonical_key,contact_key,need_fingerprint,payload_json,decision,matched_existing) VALUES(?,?,?,?,?,?,?,?)'
-          ).run(id, g.stt, c.canonicalKey, c.contactKey, c.needFingerprint, JSON.stringify(c), d.decision, d.matched);
+          ).run(id, g.stt, c.canonicalKey, c.contactKey, c.needFingerprint, JSON.stringify(c), c.classification.decision, d.matched);
+        }
+
+        // 4. Ghi batch tất cả lead mới của nhóm vào Google Sheet 1 lần duy nhất (nhanh gấp 3 lần ghi lẻ)
+        if (groupNewLeads.length > 0) {
+          await writeLeads(groupNewLeads, id);
         }
 
         db.prepare('INSERT OR REPLACE INTO checkpoints VALUES(?,?,?,?,?,?,?,?,?)').run(
@@ -147,7 +198,7 @@ export async function runScan(opts: { stt?: number[]; priority?: string[]; limit
       }
 
       if (i < groups.length - 1) {
-        const delaySec = Math.floor(Math.random() * 3) + 3;
+        const delaySec = Math.floor(Math.random() * 2) + 2; // 2-3s an toàn, tiết kiệm thời gian
         console.log(`  ⏳ Nghỉ an toàn ${delaySec}s trước khi chuyển nhóm tiếp theo...`);
         await new Promise(r => setTimeout(r, delaySec * 1000));
       }
@@ -183,34 +234,66 @@ export async function syncLeadsToSheet() {
   }
 
   const history = await loadLeadOutput();
+  const existingUuids = new Set<string>();
+  const existingLinks = new Set<string>();
   const existingKeys = new Set<string>();
+
   history.slice(1).forEach(r => {
+    // Col B (UUID)
+    const uuid = String(r[1] || '').trim();
+    if (uuid) existingUuids.add(uuid);
+
+    // Link
     let link = '';
     if (r.length <= 14 && r[5]) {
       const m = String(r[5]).match(/https?:\/\/[^\s]+/);
       if (m) link = m[0];
     }
     if (!link) link = String(r[19] || r[6] || '').trim();
-    if (link) existingKeys.add(hash(canonicalFacebookUrl(link)));
-
-    const uniqueKey = String(r[1] || r[16] || '').trim();
-    if (uniqueKey) existingKeys.add(uniqueKey);
+    if (link) {
+      const cleanLink = canonicalFacebookUrl(link);
+      existingLinks.add(cleanLink);
+      existingKeys.add(hash(cleanLink));
+    }
   });
 
-  let synced = 0;
+  const toSync: Candidate[] = [];
   for (const c of newCandidates) {
-    if (c.canonical_key && existingKeys.has(c.canonical_key)) continue;
     try {
       const payload: Candidate = JSON.parse(c.payload_json);
-      await writeLead(payload, c.run_id);
+      const uuid = formatRawDataRow(payload)[0];
+      const link = payload.permalink ? canonicalFacebookUrl(payload.permalink) : '';
+
+      if (uuid && existingUuids.has(uuid)) continue;
+      if (link && existingLinks.has(link)) continue;
+      if (c.canonical_key && existingKeys.has(c.canonical_key)) continue;
+
+      toSync.push(payload);
+      if (uuid) existingUuids.add(uuid);
+      if (link) {
+        existingLinks.add(link);
+        existingKeys.add(hash(link));
+      }
       if (c.canonical_key) existingKeys.add(c.canonical_key);
-      synced++;
     } catch (e) {
-      console.error(`❌ Lỗi đồng bộ candidate #${c.id}:`, e);
+      console.error(`❌ Lỗi parse candidate #${c.id}:`, e);
     }
   }
 
   const destSheetName = env.DATA_DESTINATION_SHEET || 'Tháng 10/26';
+  console.log(`\n⏳ Tìm thấy ${toSync.length} lead mới chưa có trên sheet '${destSheetName}'. Đang tiến hành ghi...`);
+
+  let synced = 0;
+  const CHUNK_SIZE = 50;
+  for (let i = 0; i < toSync.length; i += CHUNK_SIZE) {
+    const chunk = toSync.slice(i, i + CHUNK_SIZE);
+    await writeLeads(chunk);
+    synced += chunk.length;
+    if (i + CHUNK_SIZE < toSync.length) {
+      await new Promise(r => setTimeout(r, 1000));
+    }
+  }
+
   console.log(`✅ Đã đồng bộ thành công ${synced} lead lên Google Sheet '${destSheetName}'!`);
   return { synced, total: newCandidates.length };
 }

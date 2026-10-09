@@ -81,8 +81,8 @@ export async function loadLeadOutput(): Promise<any[][]> {
     console.warn(`⚠️ Không thể tải dữ liệu từ sheet '${destSheet}':`, e.message);
   }
 
-  // Nếu là Tháng 10/26, nạp thêm dữ liệu từ Tháng 9/26 để chống trùng các bài đã lấy trong tháng trước
-  if (destSheet === 'Tháng 10/26') {
+  // Nếu là Tháng 10, nạp thêm dữ liệu từ Tháng 9/26 để chống trùng các bài đã lấy trong tháng trước
+  if (destSheet.startsWith('Tháng 10')) {
     try {
       const prevMonthRows = await values(`'Tháng 9/26'!A5:H2000`, destId);
       if (prevMonthRows && prevMonthRows.length > 1) {
@@ -219,11 +219,12 @@ async function ensureArrayFormula(destSheet: string, destId: string) {
 }
 
 async function getNextRow(destSheet: string, destId: string): Promise<number> {
+  if (_cachedNextRow !== null) {
+    return _cachedNextRow;
+  }
   const colB = await values(`'${destSheet}'!B5:B`, destId);
   const fetchedNext = 5 + (colB ? colB.length : 1);
-  if (_cachedNextRow === null || fetchedNext > _cachedNextRow) {
-    _cachedNextRow = fetchedNext;
-  }
+  _cachedNextRow = fetchedNext;
   return _cachedNextRow;
 }
 

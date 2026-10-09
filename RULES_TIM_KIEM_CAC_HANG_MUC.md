@@ -30,9 +30,7 @@
 | 6 | **Tiệc** | `Nhật Chung` | - Doanh nghiệp/B2B: Tập đoàn, doanh nghiệp vừa & lớn, FDI, ngân hàng, bảo hiểm, dược – y tế, công nghệ, bất động sản, FMCG, hiệp hội; bộ phận Marketing, Event, PR, HR, Admin, Procurement. - Cơ quan/Tổ chức: Bộ ban ngành, trường đại học, viện nghiên cứu, bệnh viện, NGO/IGO, ban tổ chức hội nghị – hội thảo.  | dịch vụ tea break, dịch vụ tiệc tea break, tiệc tea break | tea break 10 người, 20 người, 30 người |
 | 7 | **Tour Inbound** | `Hà Đỗ` | 70% B2B/đoàn giá trị cao: Overseas Travel Agent, Tour Operator, Wholesaler, Group Travel Specialist, Luxury Travel Company, Incentive House, Event Agency, doanh nghiệp/tổ chức quốc tế, Product Manager, Contracting Manager, Destination Manager, Operations Manager.  | Vietnam tour, Vietnam private tour, Vietnam itinerary | DMC/tour operator/khách sạn/guide tự chào dịch vụ: we are a Vietnam DMC, our package, special offer |
 | 8 | **Tour Outbound** | `Hà Đỗ` | 70%: khách giá trị cao: doanh nghiệp, tập đoàn, HR/Admin, Procurement, Marketing, Sales, Executive Assistant, người phụ trách Company Trip/Incentive/Dealer Trip, người tổ chức đoàn/nhóm riêng, gia đình nhiều người. | cần tìm tour, tìm tour, cần tour | rao bán tour: sale tour, tour giá sốc, nhận khách |
-| 9 | **Tour Nội địa** | `Thùy Anh` | 80% – khách đoàn lớn: doanh nghiệp, công ty, tập đoàn, hiệp hội, hội nhóm lớn, hội đồng hương, nhóm họp lớp, đoàn xã/phường, liên hiệp phụ nữ; hàng chục đến hàng trăm người; nam và nữ 25–44 tuổi; tổng chi tiêu mục tiêu ≥30 triệu đồng.  | Khách đoàn: 
-tổ chức tour du lịch cho công ty, tour du lịch công ty, tour đoàn công ty | Khách đoàn: 
-Team Building độc lập, Gala Dinner độc lập, tổ chức sự kiện thuần túy |
+| 9 | **Tour Nội địa** | `Thùy Anh` | 80% – khách đoàn lớn: doanh nghiệp, công ty, tập đoàn, hiệp hội, hội nhóm lớn, hội đồng hương, nhóm họp lớp, đoàn xã/phường, liên hiệp phụ nữ; hàng chục đến hàng trăm người; nam và nữ 25–44 tuổi; tổng chi tiêu mục tiêu ≥30 triệu đồng.  | Khách đoàn:, tổ chức tour du lịch cho công ty, tour du lịch công ty | Khách đoàn:, Team Building độc lập, Gala Dinner độc lập |
 | 10 | **Xe** | `Thùy Anh` | - Khách đoàn 70%:  | thuê xe đi [địa điểm], thuê xe du lịch, thuê xe hội nghị | thuê xe tự lái, thuê xe tháng đưa đón nhân viên, mua xe |
 | 11 | **Vé** | `Thùy Anh` | Khách đoàn ~70%: Doanh nghiệp, công ty, tập đoàn, cơ quan, tổ chức, hiệp hội, hội nhóm/đoàn thể; người trực tiếp tìm & đặt thường là HCNS, HR, trợ lý, procurement, kế toán, hậu cần, trưởng đoàn/BTC. Quy mô hàng chục–hàng trăm người, giá trị booking cao.  | vé máy bay, đặt vé máy bay, vé máy bay đoàn | tuyển dụng, việc làm, tiếp viên |
 
@@ -122,6 +120,10 @@ Team Building độc lập, Gala Dinner độc lập, tổ chức sự kiện th
 - ❌ `CV event`
 - ❌ `phần mềm quản lý sự kiện`
 - ❌ `game tổ chức sự kiện.`
+- ❌ `sảnh sự kiện`
+- ❌ `địa điểm tổ chức sự kiện`
+- ❌ `áo quần sự kiện`
+- ❌ `tìm địa điểm tổ chức`
 
 #### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
 > HOT: Cần gấp, cần ngay, tìm gấp
@@ -211,6 +213,9 @@ Thuê/cung cấp âm thanh, ánh sáng, màn hình LED, sân khấu và thiết 
 - ❌ `loa bluetooth`
 - ❌ `thiết bị phòng thu`
 - ❌ `thiết bị cá nhân`
+- ❌ `tìm nhân sự`
+- ❌ `soundman`
+- ❌ `nhân viên`
 
 #### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
 > HOT: Khách có sự kiện/chương trình cụ thể + thời gian tổ chức rõ + địa điểm/khu vực rõ + đang cần thuê thiết bị/báo giá/tư vấn cấu hình hoặc cần setup gấp.
@@ -294,6 +299,8 @@ Chụp ảnh sự kiện; quay video sự kiện; quay + chụp; quay - chụp -
 - ❌ `bán máy ảnh`
 - ❌ `sửa máy ảnh`
 - ❌ `review máy ảnh`
+- ❌ `tìm nhân sự`
+- ❌ `nhân viên`
 
 #### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
 > HOT: Đã có chương trình cụ thể + ngày/giờ tổ chức + địa điểm/khu vực + nhu cầu Media tương đối rõ (quay/chụp/dựng/livestream, số camera…) và đang cần báo giá, tư vấn hoặc đặt ekip. Đặc biệt ưu tiên lead có lịch tổ chức gần hoặc yêu cầu giữ lịch ekip.
@@ -378,6 +385,8 @@ Thi công gian hàng/booth triển lãm; booth activation; thi công sân khấu
 - ❌ `bản vẽ xây dựng`
 - ❌ `thiết kế nhà`
 - ❌ `kiến trúc nhà ở`
+- ❌ `tìm nhân sự`
+- ❌ `nhân viên`
 
 #### 🔥 6. Tiêu chuẩn đánh giá độ nóng (HOT / WARM)
 > HOT: Đã có chương trình/dự án cụ thể + thời gian hoàn thiện/diễn ra + địa điểm + hạng mục cần thi công tương đối rõ và đang yêu cầu khảo sát, thiết kế, báo giá hoặc triển khai. Lead có deadline gần, đã có mặt bằng/kích thước, brief/concept hoặc yêu cầu sản xuất cụ thể được ưu tiên xử lý.
@@ -792,8 +801,8 @@ Khách đoàn: tìm đơn vị tổ chức tour cho đoàn đông; xin báo giá
 Khách lẻ: tìm tour trọn gói, tour ghép, giá và lịch trình cụ thể; tour cuối tuần/ngắn ngày; tour đúng mùa; giảm thời gian tự đặt xe, phòng, vé và điểm tham quan.
 
 #### 🔑 3. Bộ từ khóa chính (Main Keywords)
-- `Khách đoàn: 
-tổ chức tour du lịch cho công ty`
+- `Khách đoàn:`
+- `tổ chức tour du lịch cho công ty`
 - `tour du lịch công ty`
 - `tour đoàn công ty`
 - `tour khách đoàn`
@@ -803,10 +812,9 @@ tổ chức tour du lịch cho công ty`
 - `tour đoàn khởi hành từ [điểm xuất phát]`
 - `tour [điểm đến] kết hợp Team Building`
 - `tour [điểm đến] kết hợp Gala Dinner`
-- `tour [điểm đến] Team Building Gala Dinner [thời lượng]
-
-Khách lẻ: 
-tour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]`
+- `tour [điểm đến] Team Building Gala Dinner [thời lượng]`
+- `Khách lẻ:`
+- `tour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]`
 - `tour [điểm xuất phát] đi [điểm đến] [thời lượng]`
 - `tour [điểm đến] trọn gói`
 - `tour ghép [điểm đến]`
@@ -815,8 +823,8 @@ tour [điểm đến] [thời lượng] khởi hành từ [điểm xuất phát]
 - `tour [điểm đến] khởi hành tháng [x]`
 
 #### 🌐 4. Bộ từ khóa mở rộng (Expanded Keywords)
-- `Khách đoàn:
-Cần tìm công ty tổ chức tour cho đoàn 50 người”`
+- `Khách đoàn:`
+- `Cần tìm công ty tổ chức tour cho đoàn 50 người”`
 - `“xin báo giá tour Đà Nẵng 3N2Đ cho công ty”`
 - `“đoàn 80 người đi Hạ Long cần lịch trình và khách sạn”`
 - `“công ty cần đi nghỉ mát kết hợp Team Building”`
@@ -825,10 +833,9 @@ Cần tìm công ty tổ chức tour cho đoàn 50 người”`
 - `“tour đoàn có hóa đơn VAT”`
 - `“tour công ty 2N1Đ gần Hà Nội”`
 - `“đoàn họp lớp 40 người muốn đi [điểm đến]”`
-- `“xin báo giá trọn gói xe, phòng, ăn và hướng dẫn viên”
-
-Khách lẻ: 
-“Đi [điểm đến] 3N2Đ từ Hà Nội có tour nào?”`
+- `“xin báo giá trọn gói xe, phòng, ăn và hướng dẫn viên”`
+- `Khách lẻ:`
+- `“Đi [điểm đến] 3N2Đ từ Hà Nội có tour nào?”`
 - `“xin giá tour Phú Quốc cho 4 người”`
 - `“tour Đà Nẵng 4N3Đ bao gồm vé máy bay”`
 - `“tour Sapa cuối tuần”`
@@ -838,8 +845,8 @@ Khách lẻ:
 - `“tour [điểm đến] dịp [ngày lễ còn hiệu lực]”`
 
 #### 🚫 5. Bộ từ khóa & Dấu hiệu LOẠI TRỪ (Excluded Keywords)
-- ❌ `Khách đoàn: 
-Team Building độc lập`
+- ❌ `Khách đoàn:`
+- ❌ `Team Building độc lập`
 - ❌ `Gala Dinner độc lập`
 - ❌ `tổ chức sự kiện thuần túy`
 - ❌ `hội nghị/hội thảo không có tour`
@@ -851,10 +858,9 @@ Team Building độc lập`
 - ❌ `visa`
 - ❌ `tuyển dụng`
 - ❌ `khóa học`
-- ❌ `mẫu kịch bản miễn phí không có nhu cầu mua tour, tìm địa điểm tổ chức teambuilding
-
-Khách lẻ:
-Tour nước ngoài`
+- ❌ `mẫu kịch bản miễn phí không có nhu cầu mua tour, tìm địa điểm tổ chức teambuilding`
+- ❌ `Khách lẻ:`
+- ❌ `Tour nước ngoài`
 - ❌ `outbound`
 - ❌ `visa`
 - ❌ `du học`
